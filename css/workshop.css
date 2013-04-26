@@ -113,10 +113,39 @@
 	height: 1%;
 }
 
-table { margin: 1em; border-collapse: collapse; }
-td, th { padding: .3em; border: 1px #ccc solid; }
+/* tables */
+
+table { 
+    margin: 1em; 
+    border: 1px solid black;
+    border-collapse: collapse; 
+}
+
+table th {
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: black;
+    background-color: #dedede;
+}
+
+table td {
+    padding: .3em; 
+    border:1px solid black;
+}
 
 h1, h2, h3 {
     color: #003D5D;
 }
 
+table tr td.right {
+  text-align: right;
+}
+
+table tr td.left {
+  text-align: left;
+}
+
+table tr td.center {
+  text-align: center;
+}
