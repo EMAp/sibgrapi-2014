@@ -35,8 +35,8 @@ for Visweek 2013, which deadline is June 27th, 2013.
 
 ## Important dates
 
-- Submission Deadline: May 5, 2013
-- Notification: May 12, 2013
+- Submission Deadline: May 10, 2013
+- Notification: May 17, 2013
 
 ## Poster session
 
