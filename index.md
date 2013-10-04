@@ -3,55 +3,46 @@ layout: content
 title: Welcome
 ---
 
-The field of visualization encompasses the study of applications,
-techniques and algorithms for producing visual representations of data
-coming from various sources, as well as tools supporting the
-interactive exploration or analysis of such (often voluminous)
-datasets. In this context, many problems have to be solved, including
-acquisition, storage, communication, computational analysis, human
-perception and human-computer interaction issues. Scientific
-visualization, data visualization, information visualization, visual
-simulation, exploratory visual analysis, visual data mining, and more
-recently, visual analytics have been used to distinguish research and
-development involving interactive data visualization.
+SIBGRAPI 2012 - Conference on Graphics, Patterns and Images (formerly Brazilian Symposium on Computer Graphics 
+and Image Processing) is the 27th edition of this conference annually promoted by the 
+Brazilian Computer Society (SBC) through its special interest group on Graphics and Image Processing (CEGRAPI). 
+The conference started in 1988 as small symposium (“Simpósio Brasileiro de Computação Gráfica e 
+Processamento de Imagens”) and has grown in importance each year. 
+The proceedings are available at the SIBGRAPI Digital Library Archive, maintained by 
+Instituto Nacional de Pesquisas Espaciais (INPE). 
+From 1997 to 2008, the proceedings were published by IEEE Computer Society Press. 
+Since 2009, they have been published by CPS. All these editions are available at IEEE Xplore. 
+Moreover, since 2003, special efforts have been made to publish extended versions of the 
+best papers in special issues of well-qualified journals of the related areas. 
+Information on past SIBGRAPI events can also be found at the CEGRAPI committee page.
 
-Since the 1st Workshop on Interactive Visualization, held during
-SIBGRAPI 2007, the field has evolved and gained importance
-globally. The 2nd and 3rd Workshops on Interactive Visualization were
-held during SIBGRAPI 2010 and SIBGRAPI 2012, respectively. These
-previous editions focused mainly on group presentations.  With this
-4th edition of the workshop as a satellite of the
-[WVC 2013](http://www2.ic.uff.br/~wvc2013/) (Workshop de Visão
-Computacional), we expect to reach other researchers while still
-providing a forum for the discussion of current projects in Brazil,
-fostering exchange and cooperation between groups.
+SIBGRAPI 2014 will be held on August 27-30, in Rio de Janeiro, RJ, Brazil. 
+ >>>> add some word about Rio
 
-## Organizers
+Researchers, students and professionals are invited to participate by submitting 
+works in all areas of Computer Graphics, Image Processing, Computer Vision and Pattern Recognition. 
+Visit the Call for Papers page for further information.
+
+## Local Commitee
 
 - Asla Medeiros e Sa - FGV/EMAp
-- Carla Dal Sasso Freitas - UFRGS
+- Moacyr Alvim orta Barboza da Silva - FGV/EMAp
+- Paulo Cezar Carvalho - FGV/EMAp
 
 ## Scientific Committee
 
-- Anderson Maciel - UFRGS
-- Celmar Guimarães – Unicamp – Limeira
-- Fernado Paulovich - ICMC/USP-São Carlos
-- Flavio Codeco Coelho – FGV/EMAp
-- Hugo Nascimento – UFG
-- Luciana Nedel – UFRGS
-- Paulo Cezar Carvalho - FGV/EMAp
-- Rosane Minghim - ICMC/USP-São Carlos
+- Anderson - UNICAMP
+- Diego Nehab - IMPA
+- 
 
 ## Important Dates
 
-- Submission Deadline:  May 5, 2013 
-- Notification:  May 12, 2013
+- Submission Deadline:  May 4, 2014 
+- Notification:  ---, 2013
 
 ## Contact
 
 - <script type='text/javascript'>var a = new Array('asla.sa','@fgv.br');document.write("<a href='mailto:"+a[0]+a[1]+"'>"+a[0]+a[1]+"</a>");</script>
-- <script type='text/javascript'>var a = new Array('.br','inf','la@','car','.uf','rgs');document.write("<a href='mailto:"+a[3]+a[2]+a[1]+a[4]+a[5]+a[0]+"'>"+a[3]+a[2]+a[1]+a[4]+a[5]+a[0]+"</a>");</script>
-- <script type='text/javascript'>var a = new Array('mail.com','4thwivis@g');document.write("<a href='mailto:"+a[1]+a[0]+"'>"+a[1]+a[0]+"</a>");</script>
 
 
 ## Address
