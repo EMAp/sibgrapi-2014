@@ -1,68 +1,69 @@
 ---
 layout: content
-title: Call for Poster
+title: Call for contributions
 ---
 
-The 4th WIVIS Poster Track offers a timely venue to present and
-discuss visualization research and applications through a forum that
-encourages graphical presentation and in addition to a poster being
-displayed throughout the workshop. Case studies in all application
-areas are welcome. Examples of appropriate visualization work include,
-but are not limited to:
+All accepted papers will be published in the proceedings of the conference (submitted to IEEE Xplore) 
+and scheduled for oral or poster presentation.
 
-- research exploring new problems or areas,
-- the results of student, pilot projects, work in progress, and
-- ew angles on existing (collections of) work or known data sets.
+From 1997 to 2008, SIBGRAPI proceedings were published by the IEEE Computer Science, 
+by CPS since then, and since 1996, at the SIBGRAPI Digital Library Archive, maintained 
+by Instituto Nacional de Pesquisas Espaciais (INPE).
+
+In previous SIBGRAPI editions, the authors of the best papers were be invited to submit 
+extended versions of their work to highly ranked international journals in the respective fields. 
+In particular, extended versions of the best papers of previous SIBGRAPI were published in special issues of:
+
+Image and Vision Computing (2003),
+Pattern Analysis and Applications (2004),
+Computerized Medical Imaging and Graphics (2004),
+Journal of Mathematical Imaging and Vision (2006),
+Pattern Recognition Letters (2007, 2008),
+Computers & Graphics (2007),
+Computer Graphics Forum (2007, 2009),
+International Journal of Pattern Recognition and Artificial Intelligence (2010),
+The Visual Computer (2010).
 
 ## Submission instructions
 
-Poster authors must submit a two-page summary of their work in a
-two-column format in line with the IEEE VIS formatting. Summaries can
-be written in Portuguese although we encourage authors to submit in
-English. It should include a concise description of the idea, the
-results or findings, supporting imagery and figures, and a brief
-discussion of the implications of the work to the selected
-domain. Full literature searches are not expected, although relevant
-citations should be included.
+To be announced...
 
-Please find formatting guidelines at:
-[ieeevis.org/year/2013/info/call-participation/posters](ieeevis.org/year/2013/info/call-participation/posters)
+## Anonymity Requirement
 
-Note that we adopt the submission format of Visweek 2013. Once the
-summaries are not to be published, this could be considered as a forum
-to discuss and further enhance your work to be submitted as a poster
-for Visweek 2013, which deadline is June 27th, 2013.
+The review process of most submissions will be double blind. 
+Authors must thus prepare their manuscripts without including any indication 
+of their identities or institutional affiliations. Authors’ identities will be 
+tracked only by the JEMS submission system, and visible only by the track chairs. 
+The program committee members and referees who review the paper will not know the identity of the authors. 
+
+To ensure anonymity of authorship, authors must prepare their manuscript as follows:
+Authors’ names and affiliations must not appear on the title page or elsewhere in the paper. 
+Instead, please include under the title the number assigned to your paper by the on-line paper 
+registration system (to be announced).
+Funding sources must not be acknowledged anywhere in the paper.
+Research group members or other colleagues or collaborators must not be acknowledged anywhere in the paper.
+It is strongly suggested that the submitted file is named with the assigned submission number. 
+For example, if your assigned paper number is 39352, then name your submitted file 39352.pdf.
+Source file naming must also be done with care. For example, if your name is Jane Smith and 
+you submit a PDF file generated from a .dvi file called Jane-Smith.dvi, one can infer your 
+authorship by looking into the PDF file.
+The same rules apply to supplementary material.
+You must also use care in referring to related past work, particularly your own. 
+For example, avoid mention to your work as “In our previous work [1,2]…”, prefer third person referencing 
+as “In previous work [1,2]…”. Despite the anonymity requirements, you should still include all relevant 
+work of your own in the references, using the above style (omitting them could potentially reveal your 
+identity by negation). 
+
+It is the responsibility of authors to do their best to preserve anonymity. 
+Papers that do not follow the guidelines here, or otherwise potentially reveal the identity of the authors, 
+are subject to immediate rejection.
+
+## Technical Papers
 
 ## Important dates
 
-- Submission Deadline: May 10, 2013
-- Notification: May 17, 2013
+- Submission Deadline: May 4, 2014
+- Notification: ---, 2014
 
-## Poster session
 
-Authors of accepted posters are required to bring an explanatory
-hardcopy poster for display during the Workshop. They should be
-available at the poster to discuss their work during the scheduled
-poster session(s). The posters themselves have no predefined
-formatting, but dimensions may not exceed A0 or A1 paper size. All
-authors who plan to show live demos or video should bring a laptop to
-the poster session and advise the organizers in order to have tables
-provided.
 
-## Poster review process
-
-Each poster submission will be read and evaluated by at least two
-reviewers. Submissions will be evaluated according to originality,
-significance, suitability for the venue (levels of interest,
-relevance) and the potential for prompting discussion. All authors
-will receive reviews of their submission explaining the decision and
-providing feedback. Authors of posters that are accepted are expected
-to address any recommendations and conditions of acceptance prior to
-final submission.
-
-## Conference chairs
-
-- Carla Dal Sasso Freitas, UFRGS, Rio Grande do Sul, Brazil
-- Asla Medeiros e Sa, EMAp/FGV, Rio de Janeiro, Brazil
-
-For submitting your poster, please email <script type='text/javascript'>var a = new Array('4thwivis@','gmail.com');document.write("<a href='mailto:"+a[0]+a[1]+"'>"+a[0]+a[1]+"</a>");</script>.
