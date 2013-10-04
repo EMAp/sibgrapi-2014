@@ -33,7 +33,7 @@ Visit the Call for Papers page for further information.
 
 - Anderson - UNICAMP
 - Diego Nehab - IMPA
-- 
+
 
 ## Important Dates
 
