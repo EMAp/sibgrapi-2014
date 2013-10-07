@@ -1,7 +1,6 @@
-
 safe: false
 pygments: true
 markdown: rdiscount
 redirects: false
 exclude: ["README.md", "DEPLOY"]
-baseurl: /WVC-2013/
+baseurl: /sibgrapi-2014/
