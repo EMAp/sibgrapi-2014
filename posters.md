@@ -3,4 +3,5 @@ layout: content
 title: Poster Session
 ---
 
-- To be announced
+To be announced.
+

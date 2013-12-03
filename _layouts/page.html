@@ -1,32 +1,88 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
 
   <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <title>{{ page.event-title }} - {{ page.title }}</title>
-    <meta name="author" content="Alexandre Rademaker" />
-    <link rel="stylesheet" href="{{site.baseurl}}css/workshop.css" type="text/css" media="screen, projection" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title> {{ page.title }} </title>
+    <link href="http://fonts.googleapis.com/css?family=Average+Sans" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="css/position.css" type="text/css" media="screen,projection">
+    <link rel="stylesheet" href="css/layout.css" type="text/css" media="screen,projection">
+    <link rel="stylesheet" href="css/print.css" type="text/css" media="print">
+    <link rel="stylesheet" href="css/general.css" type="text/css">
+    <link rel="stylesheet" href="css/personal.css" type="text/css">
+    <!--[if lte IE 6]>
+	<link href="css/ieonly.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+          #line
+          {      width:98% ;
+          }
+          .logoheader
+          {
+          height:200px;
+	  
+          }
+          #header ul.menu
+          {
+          display:block !important;
+          width:98.2% ;
+	  
+          }
+	</style>
+	<![endif]-->
+    <!--[if IE 7]>
+	<link href="css/ie7only.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+    <style type="text/css">
+      #main h2 {font-family: 'Average Sans', sans-serif;}
+      #nav h3 {font-family: 'Average Sans', sans-serif;}
+    </style>
   </head>
-  
+
   <body>
-    <div id="head-container">
-      <div id="header">
-	<h1> {{ page.event-title }} </h1> 
-	<p> {{ page.event-dates }} </p>
+    <div id="all">
+      <div id="back">
+	
+	{% include header.html %}
+
+	<div id="contentarea">
+	  <div id="breadcrumbs">
+          </div>
+
+	  <div class="left1 leftbigger" id="nav">
+	    {% include menu.html %}
+	    {% include dates.html %}
+	  </div>
+	  
+	  <div id="wrapper2">
+
+	    <div id="main">
+	      <div id="system-message-container">
+	      </div>
+
+	      {{ content }}
+	    </div>
+	  </div>  
+
+	  <div class="wrap"></div>
       </div>
     </div>
-    <div id="navigation-container">
-      <div id="navigation">
-	<ul>
-	  <li><a href="index.html">Welcome</a></li>
-	  <li><a href="program.html">Program</a></li>
-	  <li><a href="registration.html">Registration</a></li>
-	  <li><a href="call-for-poster.html">Call for Poster</a></li>
-	</ul>
-      </div>
-    </div>
-    
-  {{ content }}
-    
   </body>
+
+  <div id="footer-outer">
+    <div id="footer-inner">
+      <div id="bottom">
+	<div class="box box1"><img src="img/logo_sbc.gif"  width="200" alt="SBC"/></div>
+	<div class="box box2"><img src="img/EMAP_h_s.jpg"  width="200" alt="EMAP/FGV" /></div>
+	<!-- <div class="box box3"><img src="img/ovgu_logo.png" width="200" alt="University of Magdeburg"/></div>
+	     <div class="box box4"><img src="img/L3S_Logo.jpg"  width="100" alt="L3S Hannover"/></div>
+	     <div class="box box5"><img src="img/uoftlogo.gif"  width="200" alt="University of Toronto"/></div> -->
+      </div>
+    </div>
+    <div id="footer-sub">
+      <div id="footer">
+      </div>
+      <!-- end footer -->
+    </div>
+  </div>
+  
 </html>

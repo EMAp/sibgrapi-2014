@@ -1,4 +1,5 @@
 sibgrapi-2014
 =============
 
-XXVII Conference on graphics, patterns and images
+XXVII Conference on graphics, patterns and images.
+

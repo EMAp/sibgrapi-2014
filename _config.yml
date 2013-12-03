@@ -2,5 +2,5 @@ safe: false
 pygments: true
 markdown: rdiscount
 redirects: false
-exclude: ["README.md", "DEPLOY"]
+exclude: ["README.md"]
 baseurl: /sibgrapi-2014/

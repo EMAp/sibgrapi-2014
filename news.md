@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Registration
+title: News
 ---
 
 More information here soon...
