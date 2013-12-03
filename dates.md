@@ -5,9 +5,9 @@ title: Important Dates
 
 ### Technical Papers
 
-- Papers submission: April 25th, 2012
-- Notification of Acceptance: June 30th, 2012
-- Camera ready due: July 9th, 2012
+- Papers submission: April 25th, 2014
+- Notification of Acceptance: June 30th, 2014
+- Camera ready due: July 9th, 2014
 
 ### Workshop Proposals
 
