@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Welcome 
+title: Welcome to Rio de Janeiro, Brazil - August 27-30
 ---
 
 SIBGRAPI 2014 - Conference on Graphics, Patterns and Images (formerly
