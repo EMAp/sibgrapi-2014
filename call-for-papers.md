@@ -11,8 +11,8 @@ available below.
 ## Important Dates:
 
 - Full Paper Submission: April 25, 2014
-- Notification of Acceptance: June 30, 2014
-- Camera ready due: July 9, 2014
+- Notification of Acceptance: June 15, 2014
+- Camera ready due: June 30, 2014
 
 SIBGRAPI 2014 submission deadline is hard. Differently from previous
 years, there will be no extensions!
@@ -58,8 +58,8 @@ The SIBGRAPI IEEE LaTeX style is available below:
 
 Please follow the included instructions and the IEEE formatting
 guidelines, avoiding any change to the format (in particular avoiding
-\vspace command, or creating subsections or paragraph title with any
-command different from \subsection[*] or \paragraph[*]).
+**\vspace** command, or creating subsections or paragraph title with
+any command different from **\subsection** or **\paragraph**).
 
 The bibliography should be formatted with a 9pt font. Please do not
 change the font size, even if it helps to comply with the page limit!
@@ -117,7 +117,7 @@ manuscript as follows:
   file called Jane-Smith.dvi, one can infer your authorship by looking
   into the PDF file.
 
-- The same rules apply to supplementary material. 
+- The same rules apply to supplementary material.
  
 You must also use care in referring to related past work, particularly
 your own. For example, avoid mention to your work as "In our previous
@@ -134,3 +134,4 @@ It is the responsibility of authors to do their best to preserve
 anonymity. Papers that do not follow the guidelines here, or otherwise
 potentially reveal the identity of the authors, are subject to
 immediate rejection.
+
