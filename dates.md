@@ -5,14 +5,14 @@ title: Important Dates
 
 ### Technical Papers
 
-- Papers submission: April 25th, 2014
-- Notification of Acceptance: June 30th, 2014
-- Camera ready due: July 9th, 2014
+- Full Paper Submission: April 25, 2014
+- Notification of Acceptance: June 15, 2014
+- Camera ready due: June 30, 2014
 
 ### Workshop Proposals
 
 - Submission deadline: December 20th, 2013.
-- Notification of acceptance: January 15th, 2014.
+- Notification of acceptance: January 15th, 2014
 
 ### Tutorial Proposals
 
@@ -21,8 +21,8 @@ title: Important Dates
 
 ### WTD PAPERS
 
-- Papers submission: TBA
-- Notification of Acceptance: TBA
+- Papers submission: May 9th, 2014
+- Notification of Acceptance: June 23th, 2014
 - Camera ready due: TBA
 
 ### WUW PAPERS
