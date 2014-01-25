@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Comittees
+title: Committees
 ---
 
 ### Conference Chairs
@@ -19,11 +19,11 @@ title: Comittees
 ### Workshop of Theses and Dissertations Chairs (WTD)
 
 - [Ricardo Marroquim](http://www.lcg.ufrj.br/Members/ricardo) (Coppe-UFRJ, Brazil)
-- [William R. Schwartz](http://homepages.dcc.ufmg.br/~william/) (UFMG, Brazil)
+- [William Robson Schwartz](http://homepages.dcc.ufmg.br/~william/) (UFMG, Brazil)
 
 ### Workshop of Undergraduate Works Chairs (WUW)
 
-- [Vinicius Mello](http://www.dmat.ufba.br/~vinicius.mello/) (UFBA, Brazil) 
+- [Vinícius Mello](http://www.dmat.ufba.br/~vinicius.mello/) (UFBA, Brazil) 
 - [Cristina Nader Vasconcelos](http://www2.ic.uff.br/~crisnv/index.php) (UFF, Brazil) 
 
 ### Workshop of Works in Progress Chairs (WIP)
@@ -38,10 +38,10 @@ title: Comittees
 
 ### Local Organizing Committee
 
-- [Raquel Peixoto Rittmeyer Silva](http://emap.fgv.br/equipe-admin.html) (EMAp/FGV - Brazil)
 - [Cristiane Souza Guimarães](http://emap.fgv.br/equipe-admin.html) (EMAp/FGV - Brazil)
+- [Raquel Peixoto Rittmeyer Silva](http://emap.fgv.br/equipe-admin.html) (EMAp/FGV - Brazil)
+- [Roberta Assumpção](http://emap.fgv.br/equipe-admin.html) (EMAp/FGV - Brazil)
 
 ### International Program Committee
 
 To be announced.
-
