@@ -3,6 +3,18 @@ layout: content
 title: Call for Thematic Workshops
 ---
 
+The SIBGRAPI 2014 chairs congratulate the proponents of the thematic
+workshops selected as SIBGRAPI 2014 co-located events!
+
+- Workshop on Vision-based Human Activity Recognition
+- WVIS 2014 - 5th Workshop on Visual Analytics, Information
+  Visualization and Scientific Visualization
+
+Both selected Workshops will happen in August 30, 2014.  More
+information [here](thematic-workshops.html).
+
+### Call for Workshop Proposals
+
 SIBGRAPI - Conference on Graphics, Patterns and Images (formerly
 Brazilian Symposium on Computer Graphics and Image Processing) is a
 traditional forum bringing together researchers, students and
@@ -10,12 +22,8 @@ professionals in Computer Graphics, Image Processing, Computer Vision,
 Pattern Recognition and related areas. It is annually promoted by the
 Brazilian Computer Society (SBC) through its CEGRAPI committee. The
 conference started in 1988 as a small symposium and has grown in
-importance along the years. Since 1996 the proceedings are available
-at IEEE Xplore, and each year special efforts are made to publish
-extended versions of the best papers in well-qualified journals like,
-for example, Computer Graphics Forum, Computers & Graphics, Visual
-Computer and Pattern Recognition Letters.
- 
+importance along the years.
+
 The 27th SIBGRAPI is being organized by EMAp/FGV, the School of
 Applied Mathematics of Getúlio Vargas Foundation, and will be held on
 August 27-30, in Rio de Janeiro, Brazil.
@@ -59,8 +67,8 @@ to the chairs:
 
 ### Important Dates (for workshops proposals)
 
-Submission deadline: December 20th, 2013.
-Notification of acceptance: January 15th, 2014.
+- Submission deadline: December 20th, 2013.
+- Notification of acceptance: January 15th, 2014.
 
 ### Evaluation Process
 

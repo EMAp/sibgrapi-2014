@@ -29,37 +29,28 @@ included in the proceedings of the conference are submitted to IEEE
 Xplore, and scheduled for oral or poster presentation.  SIBGRAPI’s
 proceedings are available on-line at
 [IEEE Xplore](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000131)
-and also at the
-[SIBGRAPI Digital Library Archive](http://sibgrapi.sid.inpe.br)
-maintained by Instituto Nacional de Pesquisas Espaciais (INPE,
-Brazil).
+and also at the [SIBGRAPI Digital Library Archive]
+(sibgrapi.sid.inpe.br) maintained by Instituto Nacional de Pesquisas
+Espaciais (INPE, Brazil).
 
-As in previous SIBGRAPI editions, the program committee is working to
-have authors of the best papers invited to submit extended versions of
-their work to highly ranked international journals in the respective
-fields. In particular, extended versions of the best papers of
-previous SIBGRAPI were published in special issues of:
-
-- Image and Vision Computing (2003)
-- Pattern Analysis and Applications (2004)
-- Computerized Medical Imaging and Graphics (2004)
-- Journal of Mathematical Imaging and Vision (2006, 2011)
-- Pattern Recognition Letters (2007, 2008, 2012)
-- Computers & Graphics (2007, 2012)
-- Computer Graphics Forum (2007, 2009, 2012)
-- International Journal of Pattern Recognition and Artificial Intelligence (2010)
-- The Visual Computer (2010)
+Authors of the best papers of the Computer Graphics and related topics
+will be invited to submit an extended version of their work to the
+[Elsevier Computer & Graphics Special Issue](http://www.journals.elsevier.com/computers-and-graphics/). The
+authors on Image and Video Processing, Computer Vision and related
+topics will be invited to submit an extended version of their work to
+the
+[Springer Journal on Image and Video Processing Special Issue](http://jivp.eurasipjournals.com/)
 
 ### Submission Instructions
 
-The
-[SIBGRAPI IEEE LaTeX style](files/2014-sibgrapi-latex-template.zip)
-is available.
+The SIBGRAPI IEEE LaTeX style is available below:
+
+- [zip package](/files/2014-sibgrapi-latex-template.zip)
 
 Please follow the included instructions and the IEEE formatting
 guidelines, avoiding any change to the format (in particular avoiding
-*\vspace* command, or creating subsections or paragraph title with any
-command different from *\subsection* or *\paragraph*).
+**\vspace** command, or creating subsections or paragraph title with
+any command different from **\subsection** or **\paragraph**).
 
 The bibliography should be formatted with a 9pt font. Please do not
 change the font size, even if it helps to comply with the page limit!
@@ -69,8 +60,7 @@ number of pages for each track. The illustrations of the paper should
 be generated either truly vectorial or rasterized with at least
 300dpi.
 
-Paper submission will be handled via
-[CMT system](https://cmt.research.microsoft.com/SIBGRAPI2014/).
+Paper submission will be handled via [CMT system](https://cmt.research.microsoft.com/SIBGRAPI2014/ )
 
 ### Oral presentation
 
@@ -95,8 +85,7 @@ will be tracked only by the submission system, and visible only by the
 track chairs. The program committee members and referees who review
 the paper will not know the identity of the authors.
 
-To ensure anonymity of authorship, authors must prepare their
-manuscript as follows:
+To ensure anonymity of authorship, authors must prepare their manuscript as follows:
 
 - Authors' names and affiliations must not appear on the title page or
   elsewhere in the paper. Instead, please include under the title the
