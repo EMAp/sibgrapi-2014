@@ -45,7 +45,7 @@ the
 
 The SIBGRAPI IEEE LaTeX style is available below:
 
-- [zip package](/files/2014-sibgrapi-latex-template.zip)
+- [zip package](files/2014-sibgrapi-latex-template.zip)
 
 Please follow the included instructions and the IEEE formatting
 guidelines, avoiding any change to the format (in particular avoiding
