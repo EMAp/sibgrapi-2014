@@ -1,14 +1,15 @@
 ---
 layout: content
-title: Co-located Workshops
+title: Thematic Workshops
 ---
 
 The chairs congratulate the proponents of the thematic workshops
 selected as SIBGRAPI 2014 co-located events!
 
-- Workshop on Vision-based Human Activity Recognition
-- WVIS 2014 - 5th Workshop on Visual Analytics, Information
-  Visualization and Scientific Visualization
+- [WVHAR - Workshop on Vision-based Human Activity
+  Recognition](call-for-wvhar.html)
 
-Both Workshops will happen in August 30, 2014.  More information will
-be available soon.
+- WVIS 2014 - 5th Workshop on Visual Analytics, Information
+Visualization and Scientific Visualization
+
+More information will be available soon.

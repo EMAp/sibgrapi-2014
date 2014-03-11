@@ -41,7 +41,3 @@ title: Committees
 - [Cristiane Souza Guimarães](http://emap.fgv.br/equipe-admin.html) (EMAp/FGV - Brazil)
 - [Raquel Peixoto Rittmeyer Silva](http://emap.fgv.br/equipe-admin.html) (EMAp/FGV - Brazil)
 - [Roberta Assumpção](http://emap.fgv.br/equipe-admin.html) (EMAp/FGV - Brazil)
-
-### International Program Committee
-
-To be announced.
