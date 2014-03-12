@@ -28,7 +28,11 @@ links:
 
 - [Technical Papers](call-for-papers.html)
 - Workshop of Undergraduate Work (WUW) 
-- Workshop of Theses and Dissertations (WTD) 
-- Workshop of Work in Progress (WIP) 
-- Tutorials 
-- [Thematic Workshops](call-for-workshops.html)
+- [Workshop of Theses and Dissertations (WTD)](call-for-WTD.html) 
+- Workshop of Work in Progress (WIP)
+- [Workshop on Vision-based Human Activity Recognition (WVHAR)](call-for-wvhar.html)
+- 5th Workshop on Visual Analytics, Information Visualization and Scientific Visualization (WVIS)
+- [Tutorials](call-for-tutorials.html)
+
+###Passed Submission Deadlines
+- [Thematic Workshops Proposals](call-for-workshops.html)
