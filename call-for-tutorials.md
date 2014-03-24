@@ -16,7 +16,7 @@ All tutorials will take place in the first day of the conference (August 27th). 
 ###Important Dates:
 
 - Submission deadline: **March 25th, 2014**
-- Notification of acceptance: January 15th, 2014
+- Notification of acceptance: April 15th, 2014
 - Camera-ready survey paper: August 10th
 - Handouts: August 20th
 
@@ -32,7 +32,7 @@ All proposals will be reviewed by at least two experts in the topic and will be 
 
 ###Author's Instructions 
 
-Tutorial proposals should be submitted through JEMS. The JEMS entry for tutorials will be available soon. Please, send your proposal up to 8 pages in PDF format using the SIBGRAPI IEEE LaTeX template available at the papers submission instructions page, disregarding recommendations for anonymity. The proposals should be written in Portuguese (elementary tutorials only) or English, and contain the following information:
+Tutorial proposals should be submitted through JEMS. The JEMS entry for submission is [here](http://submissoes.sbc.org.br/Paper.cgi?c=2047). Please, send your proposal up to 8 pages in PDF format using the SIBGRAPI IEEE LaTeX template available at the papers submission instructions page, disregarding recommendations for anonymity. The proposals should be written in Portuguese (elementary tutorials only) or English, and contain the following information:
 
 -	Title
 -	Level (elementary, intermediate or advanced)
