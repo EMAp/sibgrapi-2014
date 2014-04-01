@@ -5,7 +5,7 @@ title: Call for Workshop of Theses and Dissertations(WTD)
 
 The Workshop of Theses and Dissertations (WTD) aims to  motivate  discussions  about the graduate-level research on  topics covered by SIBGRAPI among graduate students, recently graduated students, and senior researchers.
 Researchers who have recently concluded their graduate studies are cordially invited to submit a paper to the SIBGRAPI WTD. Graduate works in progress are welcome for submission to the Workshop of Works in Progress (WIP).
-Accepted works will be presented in poster sessions and published in the SIBGRAPI electronic proceedings (with ISSN), provided that at least one of the authors is registered to the event.
+
 
 ###Important Dates:
 
