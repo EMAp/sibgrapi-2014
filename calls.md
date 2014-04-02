@@ -34,5 +34,6 @@ links:
 - 5th Workshop on Visual Analytics, Information Visualization and Scientific Visualization (WVIS)
 - [Tutorials](call-for-tutorials.html)
 
-###Passed Submission Deadlines
+### Passed Submission Deadlines
+
 - [Thematic Workshops Proposals](call-for-workshops.html)
