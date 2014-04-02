@@ -27,7 +27,7 @@ Detailed instructions to the author's can be found in the following
 links:
 
 - [Technical Papers](call-for-papers.html)
-- Workshop of Undergraduate Work (WUW) 
+- [Workshop of Undergraduate Work (WUW)](call-for-WUW.html) 
 - [Workshop of Theses and Dissertations (WTD)](call-for-WTD.html) 
 - Workshop of Work in Progress (WIP)
 - [Workshop on Vision-based Human Activity Recognition (WVHAR)](call-for-wvhar.html)
