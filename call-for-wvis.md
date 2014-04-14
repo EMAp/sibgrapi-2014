@@ -34,14 +34,14 @@ All papers will be reviewed by the four chairs organizing WVIS 2014. We will be 
 The workshop will be held on Saturday, August 30th, with a fast-forward session on Friday, August 29th.
 
 - Friday, August 29, 2014
-- - 18:00 &ndash; 18:30 Fast-forward session with oral presentations of 1-2 minutes for each work.
+  - 18:00 &ndash; 18:30 Fast-forward session with oral presentations of 1-2 minutes for each work.
  
 - Saturday, August 30,  2014
 
-- - 08:30 &ndash; 10:00 Invited Talk 1 (to be announced)
-- - 10:00 &ndash; 11:00 Poster session (held adjacent to the coffee-break location)
-- - 11:00 &ndash; 12:30 Invited Talk 2 (to be announced)
-- - 12:30 &ndash; 12:35 Closing session
+  - 08:30 &ndash; 10:00 Invited Talk 1 (to be announced)
+  - 10:00 &ndash; 11:00 Poster session (held adjacent to the coffee-break location)
+  - 11:00 &ndash; 12:30 Invited Talk 2 (to be announced)
+  - 12:30 &ndash; 12:35 Closing session
 
 ###Organizers
 - [João Comba](http://www.inf.ufrgs.br/~comba/), PhD, Associate Professor at UFRGS
