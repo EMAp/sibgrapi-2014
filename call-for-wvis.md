@@ -7,13 +7,13 @@ Motivated by the increasing attention worldwide on visualization techniques, it 
 In this edition of the workshop, we aim at providing a forum for the dissemination of current work in the field, while fostering new research and collaborations. The workshop will be comprised of a poster session to promote discussions with the authors, and two invited talks by well-known researchers in the field.
 
 A list of suggested topics for papers include, but are not limited to:
--Visual representations and interaction techniques: focus+context, brushing and linking, coordinate multiple views, zooming, navigation, etc.
--Time-series analysis and visualization, streaming techniques for visualization, time-varying data analysis and visualization.
--High-dimensional data and dimensionality reduction applied to visualization problems.
--Mathematical foundations and algorithms for data transformations to allow interactive visual analysis.
--Layout arrangement: graph drawing, overlap removal methods, and small multiples visualization.
--Big data visualization: urban data, environmental data, etc.
--Visualization, rendering and manipulation of spatial data: scalar, vector and tensor fields, flow fields, regular and unstructured grids, etc.
+- Visual representations and interaction techniques: focus+context, brushing and linking, coordinate multiple views, zooming, navigation, etc.
+- Time-series analysis and visualization, streaming techniques for visualization, time-varying data analysis and visualization.
+- High-dimensional data and dimensionality reduction applied to visualization problems.
+- Mathematical foundations and algorithms for data transformations to allow interactive visual analysis.
+- Layout arrangement: graph drawing, overlap removal methods, and small multiples visualization.
+- Big data visualization: urban data, environmental data, etc.
+- Visualization, rendering and manipulation of spatial data: scalar, vector and tensor fields, flow fields, regular and unstructured grids, etc.
 
 ###Invited Talks
 WVIS 2014 will have 2 invited talks by well-known researchers in the field. We are finishing arrangements with the invited speakers, and notification of the names, titles and abstract of the talks will be announced as soon as possible.
@@ -32,20 +32,20 @@ All papers will be reviewed by the four chairs organizing WVIS 2014. We will be 
 ###Preliminary Agenda
 The workshop will be held on Saturday, August 30th, with a fast-forward session on Friday, August 29th.
 
--Friday, August 29, 2014
+- Friday, August 29, 2014
 18:00 &ndash; 18:30 Fast-forward session with oral presentations of 1-2 minutes for each work.
  
--Saturday, August 30,  2014
+- Saturday, August 30,  2014
 08:30 &ndash; 10:00 Invited Talk 1 (to be announced)
 10:00 &ndash; 11:00 Poster session (held adjacent to the coffee-break location)
 11:00 &ndash; 12:30 Invited Talk 2 (to be announced)
 12:30 &ndash; 12:35 Closing session
 
 ###Organizers
--[João Comba](http://www.inf.ufrgs.br/~comba/), PhD, Associate Professor at UFRGS
--[Luis Gustavo Nonato](http://www.icmc.usp.br/pessoas/gnonato/), PhD, Associate Professor at ICMC-USP
--[Fernando V. Paulovich](https://sites.google.com/site/fpaulovich/Home), PhD, Assistant Professor at ICMC-USP
--[Asla Sá](http://emap.fgv.br/people/asla.sa.html), PhD, Assistant Professor at FGV
+- [João Comba](http://www.inf.ufrgs.br/~comba/), PhD, Associate Professor at UFRGS
+- [Luis Gustavo Nonato](http://www.icmc.usp.br/pessoas/gnonato/), PhD, Associate Professor at ICMC-USP
+- [Fernando V. Paulovich](https://sites.google.com/site/fpaulovich/Home), PhD, Assistant Professor at ICMC-USP
+- [Asla Sá](http://emap.fgv.br/people/asla.sa.html), PhD, Assistant Professor at FGV
 
 ###Contact
--[João Comba](http://www.inf.ufrgs.br/~comba/), PhD, Associate Professor at UFRGS
+- [João Comba](http://www.inf.ufrgs.br/~comba/), PhD, Associate Professor at UFRGS
