@@ -31,7 +31,7 @@ links:
 - [Workshop of Theses and Dissertations (WTD)](call-for-WTD.html) 
 - Workshop of Work in Progress (WIP)
 - [Workshop on Vision-based Human Activity Recognition (WVHAR)](call-for-wvhar.html)
-- 5th Workshop on Visual Analytics, Information Visualization and Scientific Visualization (WVIS)
+- [5th Workshop on Visual Analytics, Information Visualization and Scientific Visualization (WVIS)](call-for-wvis.html)
 - [Tutorials](call-for-tutorials.html)
 
 ###Passed Submission Deadlines
