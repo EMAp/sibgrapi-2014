@@ -6,7 +6,7 @@ title: "Calls for Contributions and Author's Instructions"
 Researchers, students and professionals are invited to participate by
 submitting original works describing research, practice, experience
 and applications in all areas of Computer Graphics, Computer Vision,
-Image Processing, and Pattern Recognition, including but not limited
+Image Processing and Pattern Recognition, including but not limited
 to the following topics:
 
 Animation and simulation, Big Data, Biomedical imaging and
