@@ -6,7 +6,7 @@ title: "Calls for Contributions and Author's Instructions"
 Researchers, students and professionals are invited to participate by
 submitting original works describing research, practice, experience
 and applications in all areas of Computer Graphics, Computer Vision,
-Image Processing and Pattern Recognition, including but not limited
+Image Processing, and Pattern Recognition, including but not limited
 to the following topics:
 
 Animation and simulation, Big Data, Biomedical imaging and
@@ -26,14 +26,14 @@ reconstruction, Virtual and augmented reality, and Visual data mining.
 Detailed instructions to the author's can be found in the following
 links:
 
+- [WUW - Workshop of Undergraduate Work](call-for-WUW.html) 
+- [WTD - Workshop of Theses and Dissertations](call-for-WTD.html) 
+- WIP - Workshop of Work in Progress
+- [WVHAR - Workshop on Vision-based Human Activity Recognition](call-for-wvhar.html)
+- [WVIS - 5th Workshop on Visual Analytics, Information Visualization and Scientific Visualization](call-for-wvis.html)
+
+
+###Passed Submission Deadlines
 - [Technical Papers](call-for-papers.html)
-- [Workshop of Undergraduate Work (WUW)](call-for-WUW.html) 
-- [Workshop of Theses and Dissertations (WTD)](call-for-WTD.html) 
-- Workshop of Work in Progress (WIP)
-- [Workshop on Vision-based Human Activity Recognition (WVHAR)](call-for-wvhar.html)
-- [5th Workshop on Visual Analytics, Information Visualization and Scientific Visualization (WVIS)](call-for-wvis.html)
 - [Tutorials](call-for-tutorials.html)
-
-### Passed Submission Deadlines
-
 - [Thematic Workshops Proposals](call-for-workshops.html)
