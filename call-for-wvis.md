@@ -45,7 +45,7 @@ announced as soon as possible.
 
 - Paper submission: June 30th, 2014
 - Notification of acceptance: July 17, 2014
-- Camera ready due: July  24, 2014
+- Final title and abstract due: July 24, 2014
 
 ### Submission Guidelines
 
@@ -61,15 +61,7 @@ ideas will foster new collaborations and boost research in the area.
 
 ### Reviewing Process
 
-All papers will be reviewed by the four chairs organizing
-WVIS 2014. We will be looking for promising and novel ideas in
-unpublished work, or high-quality published work. The chairs will
-prepare a short summary of the evaluation for all papers submitted,
-and eventually suggest minor corrections for accepted submissions. The
-authors of accepted papers will present their work in a fast forward
-session (1-2 mins), and a poster presentation session (1
-hour). Instructions for the fast-forward session, as well as poster
-guidelines, will be given upon the notification of accepted papers.
+All papers will be reviewed by the four chairs organizing WVIS 2014. We will be looking for promising and novel ideas in unpublished work, or high-quality published work. The chairs will prepare a short summary of the evaluation for all papers submitted, and eventually suggest minor corrections for accepted submissions. Since we are considering unpublished and published work, in this edition of WVIS the accepted submissions will not have a formal publication, but instead will have have their paper title and abstract published in the web-page of the event. The authors of accepted papers will present their work in a fast forward session (1-2 mins), and a poster presentation session (1 hour). Instructions for the fast-forward session, as well as poster guidelines, will be given upon the notification of accepted papers.
 
 ### Preliminary Agenda
 
