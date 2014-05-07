@@ -48,6 +48,8 @@ in the workshop. The announcement will be in the workshop.
 - Notification of acceptance: June 15, 2014
 - Camera ready due: June 30, 2014
 
+The submission system is available at:[CMT System](https://cmt.research.microsoft.com/VBHAR2014/)
+
 ### Submission Guidelines
 
 All papers must be written in English and formatted according to the
