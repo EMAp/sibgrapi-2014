@@ -36,7 +36,7 @@ Egyptian papyri with the Petrie Museum in London.
 
 ## Searching for Images to Measure the World
 
-- [Robert Pless](http://www.cse.wust.edu/~pless), Washington University in St. Louis - USA
+- [Robert Pless](http://www.cse.wustl.edu/~pless), Washington University in St. Louis - USA
 
 The world is observed by an enormous collection of cameras ---
 webcams, satellites and cell-phones.  For 7 years, my group has
@@ -75,7 +75,7 @@ Three dimensional reconstruction of objects and scenes has been one of the key c
 
 ## Deep Learning That Just Works
 
-- [James Bergstra](http://www.eng.uwaterloo.ca/~jbergstr/)University of Waterloo - Canadá
+- [James Bergstra](http://www.eng.uwaterloo.ca/~jbergstr/), University of Waterloo - Canadá
 
 Deep Learning has captured the imagination of researchers in both
 academia and industry after breakthrough empirical results in vision,
