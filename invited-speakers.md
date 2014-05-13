@@ -69,6 +69,10 @@ use to discover the location of a lost grave.
 
 - [Mario Campos](http://www.verlab.dcc.ufmg.br/publicacoes/author/mario_fernando_montenegro_campos), UFMG - Brazil
 
+Three dimensional reconstruction of objects and scenes has been one of the key challenges for Computer Vision, and one of the first to be addressed by the community. Through the years impressive accomplishments have been attained by novel algorithms and innovative techniques using multiple two-dimensional images. Numerous new devices have also emerged with increased degree of resolution and accuracy. At the heart of many of such techniques is the ability to detect key points and to generate unique signatures which might enable consistent matching among images. More recently, the advent of commercially available, low cost devices has broadened the way and stirred even further the challenges of scene reconstruction by providing both image and depth information, even in real time.  In this talk we will present recent approaches that use both information to build detectors and descriptors that are robust to several environmental conditions and at the same time are computationally efficient. We will show applications of such descriptors in the reconstruction of real indoor and outdoor scenes.
+
+**Short Bio:** Mario Fernando Montenegro Campos, Ph.D., is a Professor of Computer Vision and Robotics in the Department of Computer Science at the Federal University of Minas Gerais (UFMG), Belo Horizonte, Brazil. He holds B.S. degrees in Engineering, and M.S. in Computer Science, all from UFMG, and a Ph.D. in Computer and Information Science from the University of Pennsylvania, USA.  His research interests include cooperative robotics, robot vision, sensor information processing. His main contributions are in haptics, multirobot cooperation, aerial robotics and robot vision. He is the founder and director of the Vision and Robotics Lab -- VeRLab, UFMG, Brazil. He has been a Distinguished Lecturer in the IEEE Robotics and Automation Society.
+
 ## Deep Learning That Just Works
 
 - [James Bergstra](http://www.eng.uwaterloo.ca/~jbergstr/)University of Waterloo - Canadá
