@@ -28,7 +28,7 @@ links:
 
 - [WUW - Workshop of Undergraduate Work](call-for-WUW.html) 
 - [WTD - Workshop of Theses and Dissertations](call-for-WTD.html) 
-- WIP - Workshop of Work in Progress
+- [WIP - Workshop of Work in Progress](call-for-WiP.html)
 - [WVHAR - Workshop on Vision-based Human Activity Recognition](call-for-wvhar.html)
 - [WVIS - 5th Workshop on Visual Analytics, Information Visualization and Scientific Visualization](call-for-wvis.html)
 
