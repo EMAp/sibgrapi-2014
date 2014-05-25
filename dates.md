@@ -29,7 +29,7 @@ title: Important Dates
 
 ### WUW PAPERS
 
-- Papers submission: May 25, 2014
+- Papers submission: June 06, 2014
 - Notification of Acceptance: June 29, 2014
 - Camera ready due: July 15, 2014
 
