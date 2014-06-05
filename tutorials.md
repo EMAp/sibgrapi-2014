@@ -48,6 +48,7 @@ Estimated Time: 3 hours.
 ##Graphics for 3D Printing
 
 - [Karina Rodriguez Echavarria](http://culturalinformatics.org.uk/whoweare#karina), (University of Brighton, Brighton, UK) 
+- [Derek Covill](http://about.brighton.ac.uk/cem/contact/details.php?uid=dc20), (University of Brighton, Brighton, UK)
 - [Asla Medeiros e Sá](http://emap.fgv.br/people/asla.sa.html), (FGV/EMAp, Rio de Janeiro, Brazil)
 
 Tutorial Level: intermediate.

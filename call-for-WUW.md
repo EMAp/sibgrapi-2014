@@ -20,7 +20,7 @@ registered to the event.  Important Dates
 
 ### Important Dates:
 
-- Submission Deadline: June 6th, 2014
+- **(EXTENDED)** Submission Deadline: **June 8, 2014**
 - Notification of Acceptance:  June 29th, 2014
 - Camera Ready: July 15th, 2014
 

@@ -16,20 +16,20 @@ title: Important Dates
 
 ### Tutorial Proposals
 
-- Submission deadline: March 25th, 2014
-- Notification of acceptance: April 15th, 2014
-- Camera-ready survey paper: August 10th
-- Handouts: August 20th
+- Submission deadline: March 25, 2014
+- Notification of acceptance: April 15, 2014
+- Camera-ready survey paper: August 10, 2014
+- Handouts: August 20, 2014
 
 ### WTD PAPERS
 
-- Papers submission: May 9, 2014
+- Papers submission: (extended) May 16, 2014
 - Notification of Acceptance: June 23, 2014
 - Camera ready due: July 14, 2014
 
 ### WUW PAPERS
 
-- Papers submission: June 06, 2014
+- Papers submission: (extended) June 08, 2014
 - Notification of Acceptance: June 29, 2014
 - Camera ready due: July 15, 2014
 
@@ -41,7 +41,7 @@ title: Important Dates
 
 ### WVHAR PAPERS
 
-- Paper submission: May 23, 2014 (new deadline!)
+- Paper submission: (extended) May 23, 2014 
 - Notification of acceptance: June 15, 2014
 - Camera ready due: June 30, 2014
 
