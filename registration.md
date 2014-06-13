@@ -2,7 +2,8 @@
 layout: content
 title: Registration
 ---
-The registration system will become available soon.
+The registration system is now available [here](https://centraldesistemas.sbc.org.br/ecos/sibgrapi2014).
+
 The registration fees are:
 
 
