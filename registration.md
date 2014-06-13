@@ -6,8 +6,6 @@ The registration system is now available [here](https://centraldesistemas.sbc.or
 
 The registration fees are:
 
-
-<!DOCTYPE html>
 <html>
 <head>
 <style>
