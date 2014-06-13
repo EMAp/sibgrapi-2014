@@ -7,21 +7,7 @@ title: Invited Speakers
 
 - [Tim Weyrich](http://www0.cs.ucl.ac.uk/staff/t.weyrich/), University College London - UK
 
-Through the increasing availability of high-quality consumer hardware
-for advanced imaging tasks, digital imaging and scanning are gradually
-pervading general practice in cultural heritage preservation and
-archaeology. In most cases, however, imaging and scanning are
-predominantly means of documentation and archival, and digital
-processing ends with the creation of a digital image or 3D model. At
-the example of three projects, the speaker will demonstrate how
-careful analysis of the underlying cultural-heritage questions allows
-for bespoke solutions that--through joint development of imaging
-procedures, data analysis and visualisations--directly support
-conservators and humanities researchers in their work. Tim Weyrich
-will report on his experiences with fresco reconstruction at the
-Akrotiri Excavation, Santorini, on the reconstruction of fire-damaged
-parchment with London Metropolitan Archives, and on the analysis of
-Egyptian papyri with the Petrie Museum in London.
+Through the increasing availability of high-quality consumer hardware for advanced imaging tasks, digital imaging and scanning are gradually pervading general practice in cultural heritage preservation and archaeology. In most cases, however, imaging and scanning are predominantly means of documentation and archival, and digital processing ends with the creation of a digital image or 3D model. At the example of two projects, the speaker will demonstrate how careful analysis of the underlying cultural-heritage questions allows for bespoke solutions that--through joint development of imaging procedures, data analysis and visualisations--directly support conservators and humanities researchers in their work. Tim Weyrich will report on his experiences with fresco reconstruction at the Akrotiri Excavation, Santorini, and on the reconstruction of fire-damaged parchment with London Metropolitan Archives.
 
 **Short-Bio:** Tim Weyrich is an Associate Professor in the Virtual
   Environments and Computer Graphics group in the Department of
