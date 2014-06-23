@@ -22,16 +22,16 @@ padding:5px;
 </head>
 <body>
 
-<table style="width:600px">
+<table style="width:600px" align = "left">
 <tr>
   <th><strong>Full Registration</strong></th>
-  <th>Before 14th July</th>		
-  <th>July 15th - August 14th</th>
-  <th>August 15th - August 25th</th>
-  <th>After August 26th</th>
+  <th align = "left">Before 14th July</th>		
+  <th align = "left">July 15th - August 14th</th>
+  <th align = "left">August 15th - August 25th</th>
+  <th align = "left">After August 26th</th>
 </tr>
 <tr>
-  <td>SBC/EG*/IEEE Professional Members</td>
+  <td align = "left">SBC/EG*/IEEE Professional Members</td>
   <td>R$ 358,00</td>		
   <td>R$ 425,60</td>
   <td>R$ 492,80</td>
@@ -45,7 +45,7 @@ padding:5px;
   <td>R$ 694,40</td>
 </tr>
 <tr>
-  <td>SBC/EG*/IEEE Graduate Student Members</td>
+  <td align = "left">SBC/EG*/IEEE Graduate Student Members</td>
   <td>R$ 89,60</td>		
   <td>R$ 112,00</td>
   <td>R$ 134,40</td>
@@ -63,20 +63,20 @@ padding:5px;
 <table style="width:600px">
 <tr>
   <th><strong>Tutorials Only</strong></th>
-  <th>Before 14th July</th>		
-  <th>July 15th - August 14th</th>
-  <th>August 15th - August 25th</th>
-  <th>After August 26th</th>
+  <th align = "left">Before 14th July</th>		
+  <th align = "left">July 15th - August 14th</th>
+  <th align = "left">August 15th - August 25th</th>
+  <th align = "left">After August 26th</th>
 </tr>
 <tr>
-  <td>SBC/EG*/IEEE Professional Members</td>
+  <td align = "left">SBC/EG*/IEEE Professional Members</td>
   <td>R$ 56,00</td>		
   <td>R$ 67,20</td>
   <td>R$ 78,40</td>
   <td>R$ 156,80</td>
 </tr>
 <tr>
-  <td>SBC/EG*/IEEE Professional Members</td>
+  <td align = "left">SBC/EG*/IEEE Professional Members</td>
   <td>R$ 67,20</td>		
   <td>R$ 89,60</td>
   <td>R$ 112,40</td>
