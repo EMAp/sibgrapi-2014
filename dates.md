@@ -24,7 +24,7 @@ title: Important Dates
 ### WTD PAPERS
 
 - Papers submission: (extended) May 16, 2014
-- Notification of Acceptance: June 23, 2014
+- Notification of Acceptance: June 30, 2014
 - Camera ready due: July 14, 2014
 
 ### WUW PAPERS

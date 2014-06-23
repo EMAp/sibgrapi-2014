@@ -14,7 +14,7 @@ the Workshop of Works in Progress (WIP).
 ### Important Dates
 
 - (**EXTENDED**) Paper submission deadline: **May 16th, 2014**
-- Notification of acceptance: June 23th, 2014
+- Notification of acceptance: June 30th, 2014
 - Camera ready: July 14th, 2014
 
 ### Who can submit?
