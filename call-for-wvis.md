@@ -43,7 +43,7 @@ announced as soon as possible.
 
 ### Important Dates
 
-- Paper submission: June 30th, 2014
+- Paper submission: July 7th, 2014
 - Notification of acceptance: July 17, 2014
 - Final title and abstract due: July 24, 2014
 

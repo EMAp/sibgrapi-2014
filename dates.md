@@ -35,9 +35,9 @@ title: Important Dates
 
 ### WIP PAPERS
 
-- Paper submission deadline: June 30, 2014
-- Notification of Acceptance: July 28, 2014
-- Camera ready: August 8, 2014
+- Paper submission deadline: July 20th, 2014
+- Notification of Acceptance: August 5th, 2014
+- Camera ready: August 11th, 2014
 
 ### WVHAR PAPERS
 
@@ -47,6 +47,6 @@ title: Important Dates
 
 ### WVIS 
 
-- Paper submission: June 30th, 2014
+- Paper submission: July 7th, 2014
 - Notification of acceptance: July 17, 2014
 - Final title and abstract due: July 24, 2014

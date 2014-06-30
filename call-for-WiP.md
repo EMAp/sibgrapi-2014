@@ -7,9 +7,9 @@ The Workshop of Work in Progress (WiP) aims to provide a forum for original cont
 
 ### Important Dates
 
-- Paper submission deadline: June 30th, 2014
-- Notification of acceptance: July 28th, 2014
-- Camera ready: August 8th, 2014
+- Paper submission deadline: July 20th, 2014
+- Notification of acceptance: August 5th, 2014
+- Camera ready: August 11th, 2014
 
 ### Selection criteria
 
@@ -29,7 +29,7 @@ Papers must be no longer than 4 pages, including all figures and references. All
 - The names of the authors should be omitted during the review process, according to the requirement of anonymity for the articles.
 - The article can be submitted in English or in Portuguese. Texts in Portuguese should also include, before the abstract in Portuguese, an abstract written in English.
 - The articles are limited to 4 double-column pages.
-- The papers should be submitted through the [CMT system](https://cmt2.research.microsoft.com/WiP2014/Default.aspx).
+- The papers should be submitted through the [CMT system]( https://cmt.research.microsoft.com/WIP2014).
 - The acceptance of a work implies that at least one of its authors will register for the workshop to present it.
 
 For further questions, please, contact the WiP chairs:
