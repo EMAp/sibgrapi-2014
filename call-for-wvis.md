@@ -50,7 +50,7 @@ announced as soon as possible.
 ### Submission Guidelines
 
 All papers must be written in English and formatted according to the
-IEEE standard (the same of the main conference). We welcome short
+IEEE standard (the same of the main conference). The papers should be submitted through the [SBC system](https://submissoes.sbc.org.br/home.cgi?c=2144). We welcome short
 papers of 2-4 pages, including bibliography and illustrations. Since
 the goal of this edition of the workshop is to promote the area of
 visual analytics, information visualization and scientific
