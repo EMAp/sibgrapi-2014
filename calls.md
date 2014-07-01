@@ -26,14 +26,14 @@ reconstruction, Virtual and augmented reality, and Visual data mining.
 Detailed instructions to the author's can be found in the following
 links:
 
-- [WUW - Workshop of Undergraduate Work](call-for-WUW.html) 
-- [WTD - Workshop of Theses and Dissertations](call-for-WTD.html) 
-- [WIP - Workshop of Work in Progress](call-for-WiP.html)
-- [WVHAR - Workshop on Vision-based Human Activity Recognition](call-for-wvhar.html)
-- [WVIS - 5th Workshop on Visual Analytics, Information Visualization and Scientific Visualization](call-for-wvis.html)
 
+- July 20, 2014 - [WIP - Workshop of Work in Progress](call-for-WiP.html)
+- July 7, 2014 - [WVIS - 5th Workshop on Visual Analytics, Information Visualization and Scientific Visualization](call-for-wvis.html)
 
 ###Passed Submission Deadlines
-- [Technical Papers](call-for-papers.html)
-- [Tutorials](call-for-tutorials.html)
-- [Thematic Workshops Proposals](call-for-workshops.html)
+- June 08, 2014 - [WUW - Workshop of Undergraduate Work](call-for-WUW.html) 
+- May 23, 2014 - [WVHAR - Workshop on Vision-based Human Activity Recognition](call-for-wvhar.html)
+- May 16, 2014 - [WTD - Workshop of Theses and Dissertations](call-for-WTD.html)
+- April 25, 2014 - [Technical Papers](call-for-papers.html)
+- March 25, 2014 - [Tutorials](call-for-tutorials.html)
+- December 20, 2013 - [Thematic Workshops Proposals](call-for-workshops.html)
