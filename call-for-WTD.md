@@ -36,6 +36,44 @@ committee that will evaluate the poster presentations during the
 event. In order to participate of the contest for the best work
 awards, the paper must be written in English.
 
+### WTD Program Chairs
+
+- [Ricardo Marroquim](http://www.lcg.ufrj.br/Members/ricardo) (Coppe-UFRJ, Brazil)
+- [William Robson Schwartz](http://homepages.dcc.ufmg.br/~william/) (UFMG, Brazil)
+
+### WTD Program Committee
+
+- Afonso Paiva, ICMC-USP
+- Alexandre Falcao, IC-Unicamp
+- Antonio Apolinario, UFBA
+- Antonio Oliveira, UFRJ
+- Carlos Morimoto, IME-USP
+- Claudio Esperança, UFRJ
+- Claudio Jung, UFRGS
+- Creto Vidal, UFC
+- David Menotti, UFOP
+- Guillermo Camara-Chavez, UFOP
+- Helio Pedrini, IC-Unicamp
+- Joao Paulo Papa, UNESP-Bauru
+- João Paulo Gois, UFABC
+- Leandro Fernandes, UFF
+- Luciana Nedel, UFRGS
+- Luciano Oliveira, UFBA
+- Luis Peñaranda, UFRJ
+- Luis Eduardo Oliveira, UFPR
+- Luiz Marcos Goncalves, UFRN
+- Marcelo Vieira, UFJF
+- Marcelo Walter, UFRGS
+- Marcos Lage, UFF
+- Moacir Ponti Jr., ICMC-USP
+- Ricardo Torres, IC-Unicamp
+- Rodrigo Toledo, UFRJ
+- Rosane Minghim, ICMC-USP
+- Silvio Guimaraes, PUC-Minas
+- Thales Vieira, UFAL
+- Thiago Santos, Embrapa
+- Thomas Lewiner, PUC-Rio
+
 ### Instruction to the authors
 
 Submissions related to M.Sc. work may be written in Portuguese or
@@ -65,7 +103,4 @@ The text should follow the SIBGRAPI formatting guidelines, but with the followin
 - The papers should be submitted through the
   [CMT system](https://cmt2.research.microsoft.com/WTD20142014/Default.aspx).
 
-For further questions, please, contact the WTD chairs:
-
-- [Ricardo Marroquim](http://www.lcg.ufrj.br/Members/ricardo) (Coppe-UFRJ, Brazil)
-- [William Robson Schwartz](http://homepages.dcc.ufmg.br/~william/) (UFMG, Brazil)
+For further questions, please, contact the WTD chairs.
