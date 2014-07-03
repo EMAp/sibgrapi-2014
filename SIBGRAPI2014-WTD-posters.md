@@ -6,22 +6,22 @@ title: WTD - SIBGRAPI 2014 - List of accepted papers
 
 * * * 
 Paper ID 2
-M5AIE: A Method for Body Part Detection, Tracking and Pose Classification using RGB-D Images
+#### M5AIE: A Method for Body Part Detection, Tracking and Pose Classification using RGB-D Images
 Andre Brandao (UFF), Leandro Fernandes (UFF), Esteban Clua (UFF)
 
 * * * 
 Paper ID 3
-NGrid: A New Data Structure for the Neighbourhood Gathering Problem on GPUs
+#### NGrid: A New Data Structure for the Neighbourhood Gathering Problem on GPUs
 Mark Joselli (PUC-PR), Esteban Clua (UFF)
 
 * * * 
 Paper ID 4
-Illumination Inconsistency Sleuthing for Exposing Fauxtography and Uncovering Composition Telltales in Digital Images
+#### Illumination Inconsistency Sleuthing for Exposing Fauxtography and Uncovering Composition Telltales in Digital Images
 Tiago Carvalho (UNICAMP), Anderson Rocha (UNICAMP), Helio Pedrini (UNICAMP)
 
 * * * 
 Paper ID 7
-Dynamical neural network with complex network community structure
+#### Dynamical neural network with complex network community structure
 Fabiano Sousa (USP), Liang Zhao (USP)
 
 * * * 
