@@ -1,6 +1,6 @@
 ---
 layout: content
-title: WTD - SIBGRAPI 2014 - List of accepted papers
+title: WTD - SIBGRAPI 2014 - List of accepted works
 ---
 ###PhD Thesis
 
@@ -18,11 +18,6 @@ Mark Joselli (PUC-PR), Esteban Clua (UFF)
 Paper ID 4
 #### Illumination Inconsistency Sleuthing for Exposing Fauxtography and Uncovering Composition Telltales in Digital Images
 Tiago Carvalho (UNICAMP), Anderson Rocha (UNICAMP), Helio Pedrini (UNICAMP)
-
-* * * 
-Paper ID 7
-#### Dynamical neural network with complex network community structure
-Fabiano Sousa (USP), Liang Zhao (USP)
 
 * * * 
 Paper ID 8
@@ -45,6 +40,11 @@ Rafael Gomes (UFRN), Luiz Marcos Goncalves (UFRN), Bruno Carvalho (UFRN)
 Paper ID 5
 #### Real-Time Human Action Recognition Based on Motion Shapes
 Thierry Moreira (UNICAMP), Hélio Pedrini (UNICAMP)
+
+* * * 
+Paper ID 7
+#### Dynamical neural network with complex network community structure
+Fabiano Sousa (USP), Liang Zhao (USP)
 
 * * * 
 Paper ID 9

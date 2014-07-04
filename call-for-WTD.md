@@ -17,6 +17,8 @@ the Workshop of Works in Progress (WIP).
 - Notification of acceptance: June 30th, 2014
 - Camera ready: July 14th, 2014
 
+[LIST OF ACCEPTED WORKS](SIBGRAPI2014-WTD-posters.html)
+
 ### Who can submit?
 
 Students who defended their M.Sc or Ph.D. after 01/01/2013 and did not
