@@ -5,6 +5,7 @@ title: WTD - SIBGRAPI 2014 - List of accepted works
 ###PhD Thesis
 
 * * * 
+* * * 
 Paper ID 2
 #### M5AIE: A Method for Body Part Detection, Tracking and Pose Classification using RGB-D Images
 Andre Brandao (UFF), Leandro Fernandes (UFF), Esteban Clua (UFF)
@@ -34,8 +35,12 @@ Paper ID 26
 #### Visual Attention Guided Features Selection with Foveated Images
 Rafael Gomes (UFRN), Luiz Marcos Goncalves (UFRN), Bruno Carvalho (UFRN)
 
+* * * 
+* * * 
+
 ### Master Dissertation
 
+* * * 
 * * * 
 Paper ID 5
 #### Real-Time Human Action Recognition Based on Motion Shapes
