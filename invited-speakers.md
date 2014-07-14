@@ -19,6 +19,8 @@ Through the increasing availability of high-quality consumer hardware for advanc
   Switzerland, in 2006. His research interests are appearance
   modelling and fabrication, point-based graphics, 3D reconstruction,
   cultural heritage analysis and digital humanities.
+  
+* * * 
 
 Thursday, August 28, 17:00 - 18:30  
 ## Detectors and Descriptors for Three Dimensional Reconstruction of Real Scenes
@@ -28,6 +30,8 @@ Thursday, August 28, 17:00 - 18:30
 Three dimensional reconstruction of objects and scenes has been one of the key challenges for Computer Vision, and one of the first to be addressed by the community. Through the years impressive accomplishments have been attained by novel algorithms and innovative techniques using multiple two-dimensional images. Numerous new devices have also emerged with increased degree of resolution and accuracy. At the heart of many of such techniques is the ability to detect key points and to generate unique signatures which might enable consistent matching among images. More recently, the advent of commercially available, low cost devices has broadened the way and stirred even further the challenges of scene reconstruction by providing both image and depth information, even in real time.  In this talk we will present recent approaches that use both information to build detectors and descriptors that are robust to several environmental conditions and at the same time are computationally efficient. We will show applications of such descriptors in the reconstruction of real indoor and outdoor scenes.
 
 **Short Bio:** Mario Fernando Montenegro Campos, Ph.D., is a Professor of Computer Vision and Robotics in the Department of Computer Science at the Federal University of Minas Gerais (UFMG), Belo Horizonte, Brazil. He holds B.S. degrees in Engineering, and M.S. in Computer Science, all from UFMG, and a Ph.D. in Computer and Information Science from the University of Pennsylvania, USA.  His research interests include cooperative robotics, robot vision, sensor information processing. His main contributions are in haptics, multirobot cooperation, aerial robotics and robot vision. He is the founder and director of the Vision and Robotics Lab -- VeRLab, UFMG, Brazil. He has been a Distinguished Lecturer in the IEEE Robotics and Automation Society.  
+
+* * * 
 
 Friday, August 29, 17:00 - 18:30  
 ## Searching for Images to Measure the World
@@ -61,6 +65,7 @@ use to discover the location of a lost grave.
   Networks (OMNIVIS) in 2003, and gave a keynote address at the IEEE
   Workshop on Application of Computer Vision in 2013.
 
+* * * 
 
 Saturday, August 30, 14:00 - 15:30
 ## Deep Learning That Just Works
@@ -102,3 +107,17 @@ of deep learning.
   for deep learning. He co-authored Theano, a popular meta-programming
   system for Python that can target GPUs for high-performance
   computation.
+  
+* * * 
+
+Saturday, August 30, 9:30 - 10:30
+## I know what you are doing, and I can tell how well! — An outlook beyond (traditional) Activity Recognition.
+
+- [Thomas Ploetz](www.thomasploetz.de), Newcastle University, UK
+
+ Computational Behaviour Analysis (CBA) is an emerging discipline that focuses on developing methods to study and understand behavioural phenotypes of humans with specific focus on health related applications. Examples of which are behaviour based screenings in Autism, skill assessment for Dementia patients or people with Parkinson's disease, or personalised rehabilitation support for stroke patients, to name but a few -- all with the objective of tailoring and improving individualised support. CBA is opportunistic regarding sensing modalities used for capturing human behaviour and apart from video based assessments Dr Ploetz and his team work with a multitude of sensors from the Pervasive and Ubiquitous computing domain. The focus of Ploetz's work is on developing and applying computational modelling techniques for CBA.
+
+**Short-Bio:** Dr. Thomas Ploetz earned his PhD in Computer Science from Bielefeld University in Germany. His background is on machine learning and statistical pattern recognition.
+Currently he is an Assoc. Prof. (Senior Lecturer) at the School of Computing Science at Newcastle University in Newcastle upon Tyne, UK where the Machine Learning and Activity Recognition research activities within the Digital Interaction group at Culture Lab. Prior to his appointment in Newcastle he worked as a visiting Research Fellow at the Georgia Institute of Technology in Atlanta, USA, and as a post-doc in both Newcastle and TU Dortmund Universities (Dortmund, Germany).
+
+* * *
