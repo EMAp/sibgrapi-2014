@@ -28,6 +28,10 @@ Also, we are specially interested in proposals/evaluations of datasets for visio
 
 The Workshop on Vision-based Human Activity Recognition, sponsored by Samsung, will award a **phablet Samsung Galaxy Note 3** for the best paper in the workshop. The announcement will be in the workshop.
 
+### Program 
+
+[click here](program_WVHAR.html)
+
 ### Important Dates
 
 - Paper submission: **May 23, 2014 (new deadline!)**
@@ -60,22 +64,6 @@ The application must include the following documents in one compressed zip file 
 - Two-page C.V. or C.V. Lattes.
 
 For best consideration for SIBGRAPI 2014, applications should be received until June 30, 2014. Applicants will be notified of the decision by mid July 2014 (the exact date is to be determined). 
-
-### Preliminary Agenda
-
-The workshop will be held on 30 August 2014.
-
-08:30 &ndash; 09:30 Welcome and keynote session (to be announced)
-
-09:30 &ndash; 10:30 Technical session
-
-10:30 &ndash; 10:50 Coffee-break
-
-10:50 &ndash; 11:50 Technical session
-
-11:50 &ndash; 12:00 Best paper award
-
-12:00 &ndash; 12:30 Discussion and closing
 
 ### Organizers
 

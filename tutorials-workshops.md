@@ -13,11 +13,11 @@ title: Tutorials and Workshops
 
 ##Thematic Workshops
 
-- [WVHAR - Workshop on Vision-based Human Activity Recognition](call-for-wvhar.html)
+- WVHAR - Workshop on Vision-based Human Activity Recognition [call](call-for-wvhar.html),[program](program_WVHAR.html)
 - [WVIS 2014 - 5th Workshop on Visual Analytics, Information Visualization and Scientific Visualization](call-for-wvis.html)
 
 ##Regular Workshops
 
-- [WTD - Workshop of Theses and Dissertations](call-for-WTD.html)
-- [WIP - Workshop of Work in Progress](call-for-WiP.html)
-- [WUW - Workshop of Undergraduate Work](call-for-WUW.html) 
+- WTD - Workshop of Theses and Dissertations, [call](call-for-WTD.html) [list of accepted works](SIBGRAPI2014-WTD-posters.html)
+- WIP - Workshop of Work in Progress, [call](call-for-WiP.html)
+- WUW - Workshop of Undergraduate Work, [call](call-for-WUW.html) 
