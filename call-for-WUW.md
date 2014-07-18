@@ -24,6 +24,8 @@ registered to the event.  Important Dates
 - Notification of Acceptance:  June 29th, 2014
 - Camera Ready: July 15th, 2014
 
+[LIST OF ACCEPTED WORKS](SIBGRAPI2014-WUW-posters.html)
+
 ### Best Paper Selection
 
 Awards will be given for the three best works, presented at the WUW

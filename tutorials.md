@@ -6,10 +6,11 @@ All SIBIGRAPI 2014 tutorials will take place on Wednesday, August 27, from 9:00 
 
 
 ##Visual Computing and Machine Learning Techniques for Digital Forensics
-Tutorial 1 - room to be defined - 09:00 - 12:30
-Tutorial Level: intermediate
-Language: Portuguese
-Estimated Time: 3 hours.
+
+- Tutorial 1 - room to be defined - 09:00 - 12:30
+- Tutorial Level: intermediate
+- Language: Portuguese
+- Estimated Time: 3 hours.
 
 **Authors:**
 - [Tiago Carvalho](http://www.ic.unicamp.br/~tjose/), (Unicamp, Campinas - Brazil)
@@ -20,10 +21,11 @@ Estimated Time: 3 hours.
 
 
 ##Introduction to the Smart Surveillance Framework 
-Tutorial 2 - Auditorium 12th floor - 09:00 - 12:30
-Tutorial Level: intermediate.
-Language: Portuguese
-Estimated Time: 3 hours.
+
+- Tutorial 2 - Auditorium 12th floor - 09:00 - 12:30
+- Tutorial Level: intermediate.
+- Language: Portuguese
+- Estimated Time: 3 hours.
 
 **Authors:**
 - [William Robson Schwartz](http://homepages.dcc.ufmg.br/~william/) (UFMG, Belo Horizonte, Brazil)
@@ -34,10 +36,11 @@ Estimated Time: 3 hours.
 
 
 ##SciPy and OpenCV as an interactive computing environment for computer vision
-Tutorual 3 - FGV´s Cultural Center - 09:00 - 17:30
-Tutorial Level: intermediate.
-Language: English
-Estimated Time: 6 hours.
+
+- Tutorual 3 - FGV´s Cultural Center - 09:00 - 17:30
+- Tutorial Level: intermediate.
+- Language: English
+- Estimated Time: 6 hours.
 
 **Author:**
 - [Thiago T. Santos](http://www.cnptia.embrapa.br/~thiago/stories/), (Embrapa Agricultural Informatics - Campinas SP)
@@ -46,10 +49,11 @@ Estimated Time: 6 hours.
 
 
 ##Developing Mobile Multimedia Apps, Botanic: A Case Study
-Tutorial 4 - Auditorium 12th floor - 14:00 - 17:30
-Tutorial Level: intermediate
-Language: English
-Estimated Time: 3 hours.
+
+- Tutorial 4 - Auditorium 12th floor - 14:00 - 17:30
+- Tutorial Level: intermediate
+- Language: English
+- Estimated Time: 3 hours.
 
 **Author:**
 - [Luiz Velho](http://lvelho.impa.br/), (VISGRAF/IMPA, Rio de Janeiro, Brazil)
@@ -57,11 +61,12 @@ Estimated Time: 3 hours.
 **Abstract:**This tutorial presents a methodology for the development of multimedia mobile applications. It describes the complete process of creating this type of App, going through all the stages of its life cycle, from initial concept to final deployment and usage. The underlying theory and abstract notions are illustrated by a practical example: Jobim Botanic — a project developed by the VISGRAF Laboratory in collaboration with the Instituto Antonio Carlos Jobim.
 
 
-##Graphics for 3D 
-Tutorial 5 - Room 1333 - 14:00 - 17:30
-Tutorial Level: intermediate.
-Language: English
-Estimated Time: 3 hours.
+##Graphics for 3D Printing
+
+- Tutorial 5 - Room 1333 - 14:00 - 17:30
+- Tutorial Level: intermediate.
+- Language: English
+- Estimated Time: 3 hours.
 
 **Authors:**
 - [Karina Rodriguez Echavarria](http://culturalinformatics.org.uk/whoweare#karina), (University of Brighton, Brighton, UK) 
