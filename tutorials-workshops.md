@@ -21,8 +21,10 @@ Saturday, August 30
 ##Regular Workshops
 
 Friday, August 29
+
 - WTD - Workshop of Theses and Dissertations, [   call   ](call-for-WTD.html) -- [  list of accepted works  ](SIBGRAPI2014-WTD-posters.html)
 - WUW - Workshop of Undergraduate Work, [   call   ](call-for-WUW.html) -- [  list of accepted works  ](SIBGRAPI2014-WUW-posters.html)
 
 Saturday, August 30
+
 - WIP - Workshop of Work in Progress, [   call   ](call-for-WiP.html)

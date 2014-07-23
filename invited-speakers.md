@@ -110,7 +110,7 @@ of deep learning.
   
 * * * 
 
-Saturday, August 30, 9:30 - 10:30
+Saturday, August 30, 9:30 - 10:30 - WVHAR invited speaker
 ## I know what you are doing, and I can tell how well! — An outlook beyond (traditional) Activity Recognition.
 
 - [Thomas Ploetz](www.thomasploetz.de), Newcastle University, UK
@@ -119,5 +119,17 @@ Saturday, August 30, 9:30 - 10:30
 
 **Short-Bio:** Dr. Thomas Ploetz earned his PhD in Computer Science from Bielefeld University in Germany. His background is on machine learning and statistical pattern recognition.
 Currently he is an Assoc. Prof. (Senior Lecturer) at the School of Computing Science at Newcastle University in Newcastle upon Tyne, UK where the Machine Learning and Activity Recognition research activities within the Digital Interaction group at Culture Lab. Prior to his appointment in Newcastle he worked as a visiting Research Fellow at the Georgia Institute of Technology in Atlanta, USA, and as a post-doc in both Newcastle and TU Dortmund Universities (Dortmund, Germany).
+
+* * *
+
+Saturday, August 30, - WVIS invited speaker
+## Building a useful software dependency visualization system
+
+- [Tim Dwyer](http://www.csse.monash.edu.au/~tdwyer/), Monash University, Australia 
+  
+ I have been an information visualization and graph drawing researcher for the better part of 13 years so was therefore excited at the opportunity to build a "practical" graph-visualization tool with the weight and resources of a powerful software company behind me.  However, I soon discovered that algorithms for layout and analysis are only one small piece in the puzzle to build a practical visualization tool that people will actually like and use.  In this talk I hope to share that journey, some of the insights we acquired along the way, and---of course---spruik the tool itself: CodeMaps in the Microsoft Visual Studio 2013 IDE.
+ 
+**Short-Bio:** Since 2012 Tim Dwyer is a Senior Lecturer and Larkins Fellow with the Faculty of IT at Monash University.  From 2009 to 2012 he was a Senior Software Development Engineer with the Visual Studio group at Microsoft, USA.  From 2008 to 2009 he was a Visiting Researcher with the VIBE group at Microsoft Research, USA.  He was a Research Fellow at Monash University from 2005 to 2008 and received his PhD from the University of Sydney in 2005.
+
 
 * * *
