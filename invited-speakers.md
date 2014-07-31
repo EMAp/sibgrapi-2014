@@ -2,12 +2,16 @@
 layout: content
 title: Invited Speakers
 ---
-Thursday, August 28, 9:30 - 11:00
-## Computational Analysis in Cultural Heritage Applications
 
-- [Tim Weyrich](http://www0.cs.ucl.ac.uk/staff/t.weyrich/), University College London - UK
+### Computational Analysis in Cultural Heritage Applications
 
-Through the increasing availability of high-quality consumer hardware for advanced imaging tasks, digital imaging and scanning are gradually pervading general practice in cultural heritage preservation and archaeology. In most cases, however, imaging and scanning are predominantly means of documentation and archival, and digital processing ends with the creation of a digital image or 3D model. At the example of two projects, the speaker will demonstrate how careful analysis of the underlying cultural-heritage questions allows for bespoke solutions that--through joint development of imaging procedures, data analysis and visualisations--directly support conservators and humanities researchers in their work. Tim Weyrich will report on his experiences with fresco reconstruction at the Akrotiri Excavation, Santorini, and on the reconstruction of fire-damaged parchment with London Metropolitan Archives.
+## [Tim Weyrich](http://www0.cs.ucl.ac.uk/staff/t.weyrich/), University College London - UK
+
+- Thursday, August 28
+- 9:30 - 11:00
+- Room: FGV´s 12th floor Auditorium
+
+**Abstract**: Through the increasing availability of high-quality consumer hardware for advanced imaging tasks, digital imaging and scanning are gradually pervading general practice in cultural heritage preservation and archaeology. In most cases, however, imaging and scanning are predominantly means of documentation and archival, and digital processing ends with the creation of a digital image or 3D model. At the example of two projects, the speaker will demonstrate how careful analysis of the underlying cultural-heritage questions allows for bespoke solutions that--through joint development of imaging procedures, data analysis and visualisations--directly support conservators and humanities researchers in their work. Tim Weyrich will report on his experiences with fresco reconstruction at the Akrotiri Excavation, Santorini, and on the reconstruction of fire-damaged parchment with London Metropolitan Archives.
 
 **Short-Bio:** Tim Weyrich is an Associate Professor in the Virtual
   Environments and Computer Graphics group in the Department of
@@ -21,24 +25,28 @@ Through the increasing availability of high-quality consumer hardware for advanc
   cultural heritage analysis and digital humanities.
   
 * * * 
+### Detectors and Descriptors for Three Dimensional Reconstruction of Real Scenes
 
-Thursday, August 28, 17:00 - 18:30  
-## Detectors and Descriptors for Three Dimensional Reconstruction of Real Scenes
+## [Mario Campos](http://www.verlab.dcc.ufmg.br/publicacoes/author/mario_fernando_montenegro_campos), UFMG - Brazil
 
-- [Mario Campos](http://www.verlab.dcc.ufmg.br/publicacoes/author/mario_fernando_montenegro_campos), UFMG - Brazil
+- Thursday, August 28
+- 17:00 - 18:30
+- Room: FGV´s 12th floor Auditorium 
 
-Three dimensional reconstruction of objects and scenes has been one of the key challenges for Computer Vision, and one of the first to be addressed by the community. Through the years impressive accomplishments have been attained by novel algorithms and innovative techniques using multiple two-dimensional images. Numerous new devices have also emerged with increased degree of resolution and accuracy. At the heart of many of such techniques is the ability to detect key points and to generate unique signatures which might enable consistent matching among images. More recently, the advent of commercially available, low cost devices has broadened the way and stirred even further the challenges of scene reconstruction by providing both image and depth information, even in real time.  In this talk we will present recent approaches that use both information to build detectors and descriptors that are robust to several environmental conditions and at the same time are computationally efficient. We will show applications of such descriptors in the reconstruction of real indoor and outdoor scenes.
+**Abstract**: Three dimensional reconstruction of objects and scenes has been one of the key challenges for Computer Vision, and one of the first to be addressed by the community. Through the years impressive accomplishments have been attained by novel algorithms and innovative techniques using multiple two-dimensional images. Numerous new devices have also emerged with increased degree of resolution and accuracy. At the heart of many of such techniques is the ability to detect key points and to generate unique signatures which might enable consistent matching among images. More recently, the advent of commercially available, low cost devices has broadened the way and stirred even further the challenges of scene reconstruction by providing both image and depth information, even in real time.  In this talk we will present recent approaches that use both information to build detectors and descriptors that are robust to several environmental conditions and at the same time are computationally efficient. We will show applications of such descriptors in the reconstruction of real indoor and outdoor scenes.
 
 **Short Bio:** Mario Fernando Montenegro Campos, Ph.D., is a Professor of Computer Vision and Robotics in the Department of Computer Science at the Federal University of Minas Gerais (UFMG), Belo Horizonte, Brazil. He holds B.S. degrees in Engineering, and M.S. in Computer Science, all from UFMG, and a Ph.D. in Computer and Information Science from the University of Pennsylvania, USA.  His research interests include cooperative robotics, robot vision, sensor information processing. His main contributions are in haptics, multirobot cooperation, aerial robotics and robot vision. He is the founder and director of the Vision and Robotics Lab -- VeRLab, UFMG, Brazil. He has been a Distinguished Lecturer in the IEEE Robotics and Automation Society.  
 
 * * * 
+### Searching for Images to Measure the World
 
-Friday, August 29, 17:00 - 18:30  
-## Searching for Images to Measure the World
+## [Robert Pless](http://www.cse.wustl.edu/~pless), Washington University in St. Louis - USA
 
-- [Robert Pless](http://www.cse.wustl.edu/~pless), Washington University in St. Louis - USA
-
-The world is observed by an enormous collection of cameras ---
+- Friday, August 29
+- 17:00 - 18:30
+- Room: FGV´s 12th floor Auditorium 
+ 
+**Abstract**: The world is observed by an enormous collection of cameras ---
 webcams, satellites and cell-phones.  For 7 years, my group has
 explored what it takes to organize internet imagery as a tool for
 phenology, environmental, atmospheric and social measurement. Our
@@ -66,13 +74,15 @@ use to discover the location of a lost grave.
   Workshop on Application of Computer Vision in 2013.
 
 * * * 
+### Deep Learning That Just Works
 
-Saturday, August 30, 14:00 - 15:30
-## Deep Learning That Just Works
+## [James Bergstra](http://www.eng.uwaterloo.ca/~jbergstr/), University of Waterloo - Canadá
 
-- [James Bergstra](http://www.eng.uwaterloo.ca/~jbergstr/), University of Waterloo - Canadá
+- Saturday, August 30
+- 14:00 - 15:30
+- Room: FGV´s 12th floor Auditorium
 
-Deep Learning has captured the imagination of researchers in both
+**Abstract**: Deep Learning has captured the imagination of researchers in both
 academia and industry after breakthrough empirical results in vision,
 speech processing, and natural language processing.  However, the
 success of a deep learning algorithm is highly sensitive to myriad
@@ -109,27 +119,45 @@ of deep learning.
   computation.
   
 * * * 
+### I know what you are doing, and I can tell how well! — An outlook beyond (traditional) Activity Recognition.
 
-Saturday, August 30, 9:30 - 10:30 - WVHAR invited speaker
-## I know what you are doing, and I can tell how well! — An outlook beyond (traditional) Activity Recognition.
+## WVHAR invited speaker: [Thomas Ploetz](www.thomasploetz.de), Newcastle University, UK
 
-- [Thomas Ploetz](www.thomasploetz.de), Newcastle University, UK
+- Saturday, August 30
+- 9:30 - 10:30
+- Room: FGV´s 12th floor Auditorium
 
- Computational Behaviour Analysis (CBA) is an emerging discipline that focuses on developing methods to study and understand behavioural phenotypes of humans with specific focus on health related applications. Examples of which are behaviour based screenings in Autism, skill assessment for Dementia patients or people with Parkinson's disease, or personalised rehabilitation support for stroke patients, to name but a few -- all with the objective of tailoring and improving individualised support. CBA is opportunistic regarding sensing modalities used for capturing human behaviour and apart from video based assessments Dr Ploetz and his team work with a multitude of sensors from the Pervasive and Ubiquitous computing domain. The focus of Ploetz's work is on developing and applying computational modelling techniques for CBA.
+**Abstract**: Computational Behaviour Analysis (CBA) is an emerging discipline that focuses on developing methods to study and understand behavioural phenotypes of humans with specific focus on health related applications. Examples of which are behaviour based screenings in Autism, skill assessment for Dementia patients or people with Parkinson's disease, or personalised rehabilitation support for stroke patients, to name but a few -- all with the objective of tailoring and improving individualised support. CBA is opportunistic regarding sensing modalities used for capturing human behaviour and apart from video based assessments Dr Ploetz and his team work with a multitude of sensors from the Pervasive and Ubiquitous computing domain. The focus of Ploetz's work is on developing and applying computational modelling techniques for CBA.
 
 **Short-Bio:** Dr. Thomas Ploetz earned his PhD in Computer Science from Bielefeld University in Germany. His background is on machine learning and statistical pattern recognition.
 Currently he is an Assoc. Prof. (Senior Lecturer) at the School of Computing Science at Newcastle University in Newcastle upon Tyne, UK where the Machine Learning and Activity Recognition research activities within the Digital Interaction group at Culture Lab. Prior to his appointment in Newcastle he worked as a visiting Research Fellow at the Georgia Institute of Technology in Atlanta, USA, and as a post-doc in both Newcastle and TU Dortmund Universities (Dortmund, Germany).
 
 * * *
+### Building a useful software dependency visualization system
 
-Saturday, August 30, - WVIS invited speaker
-## Building a useful software dependency visualization system
-
-- [Tim Dwyer](http://www.csse.monash.edu.au/~tdwyer/), Monash University, Australia 
+## WVIS invited speaker: [Tim Dwyer](http://www.csse.monash.edu.au/~tdwyer/), Monash University, Australia. 
   
- I have been an information visualization and graph drawing researcher for the better part of 13 years so was therefore excited at the opportunity to build a "practical" graph-visualization tool with the weight and resources of a powerful software company behind me.  However, I soon discovered that algorithms for layout and analysis are only one small piece in the puzzle to build a practical visualization tool that people will actually like and use.  In this talk I hope to share that journey, some of the insights we acquired along the way, and---of course---spruik the tool itself: CodeMaps in the Microsoft Visual Studio 2013 IDE.
+- Saturday, August 30
+- 8:30 - 10:00
+- Room: FGV´s Cultural Centre
+
+**Abstract**: I have been an information visualization and graph drawing researcher for the better part of 13 years so was therefore excited at the opportunity to build a "practical" graph-visualization tool with the weight and resources of a powerful software company behind me.  However, I soon discovered that algorithms for layout and analysis are only one small piece in the puzzle to build a practical visualization tool that people will actually like and use.  In this talk I hope to share that journey, some of the insights we acquired along the way, and---of course---spruik the tool itself: CodeMaps in the Microsoft Visual Studio 2013 IDE.
  
 **Short-Bio:** Since 2012 Tim Dwyer is a Senior Lecturer and Larkins Fellow with the Faculty of IT at Monash University.  From 2009 to 2012 he was a Senior Software Development Engineer with the Visual Studio group at Microsoft, USA.  From 2008 to 2009 he was a Visiting Researcher with the VIBE group at Microsoft Research, USA.  He was a Research Fellow at Monash University from 2005 to 2008 and received his PhD from the University of Sydney in 2005.
 
 
 * * *
+### Title to be announced
+
+## WVIS invited speaker: [Helwig Hauser](http://www.ii.uib.no/vis/team/hauser/), University of Bergen, Norway.
+  
+- Saturday, August 30
+- 11:00 - 12:30
+- Room: FGV´s Cultural Centre
+
+**Abstract**: To be announced
+ 
+**Short-Bio:** Helwig Hauser graduated from Vienna University of Technology, Austria, in 1995 with the degree of a ''Dipl.-Ing.'' (~MSc) in computer science.  In 1998, after research on flow visualization, he received the degree of a ''Dr.techn.'' (~PhD) from the same university. In 2004, Helwig Hauser was entitled a ''Privatdozent'' at the Vienna University of Technology after his successful Habilitation.  In 2006, he was awarded with the prestigous Heinz Zemanek Award for this work. Since 2007, Helwig Hauser is professor at the University of Bergen, Norway, where he is leading the (still young) research group on visualization.  Helwig Hauser's interests are diverse in visualization and computer graphics, including interactive visual analysis, illustrative visualization, and the combination of scientific and information visualization, as well as many other related topics.  He is also particularly interested in the application of visualization to the fields of medicine, geoscience, climatology, biology, engineering, and others.
+
+* * * 
+* * * 

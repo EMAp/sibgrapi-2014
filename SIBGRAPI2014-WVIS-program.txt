@@ -1,0 +1,107 @@
+---
+layout: content
+title: WVIS - 5th Workshop on Visual Analytics, Information Visualization and Scientific Visualization 
+---
+
+Motivated by the increasing attention worldwide on visualization
+techniques, it took place during SIBGRAPI 2007, SIBGRAPI 2010,
+SIBGRAPI 2012, and at Fundação Getúlio Vargas in 2013, the first four
+workshops on "Interactive Visualization" (WiVis). As this area matures
+worldwide, and the link between visualization techniques and analytics
+tools gets stronger, we renamed the workshop to WVIS (Workshop on
+Visual Analytics, Information Visualization and Scientific
+Visualization).  In this edition of the workshop, we aim at providing
+a forum for the dissemination of current work in the field, while
+fostering new research and collaborations.
+
+### Preliminary Agenda
+
+The workshop will be held on 30 August 2014.
+
+08:35 &ndash; 10:00 Keynote 1: [Tim Dwyer](http://www.csse.monash.edu.au/~tdwyer/), Monash University, Australia.
+
+10:00 &ndash; 11:00 Poster session/ Coffee-break
+
+11:00 &ndash; 12:30 Keynote 2: [Helwig Hauser](http://www.ii.uib.no/vis/team/hauser/), University of Bergen, Norway.
+
+* * *
+### Building a useful software dependency visualization system
+
+## WVIS invited speaker: [Tim Dwyer](http://www.csse.monash.edu.au/~tdwyer/), Monash University, Australia. 
+  
+- Saturday, August 30
+- 8:30 - 10:00
+- Room: FGV´s Cultural Centre
+
+**Abstract**: I have been an information visualization and graph drawing researcher for the better part of 13 years so was therefore excited at the opportunity to build a "practical" graph-visualization tool with the weight and resources of a powerful software company behind me.  However, I soon discovered that algorithms for layout and analysis are only one small piece in the puzzle to build a practical visualization tool that people will actually like and use.  In this talk I hope to share that journey, some of the insights we acquired along the way, and---of course---spruik the tool itself: CodeMaps in the Microsoft Visual Studio 2013 IDE.
+ 
+**Short-Bio:** Since 2012 Tim Dwyer is a Senior Lecturer and Larkins Fellow with the Faculty of IT at Monash University.  From 2009 to 2012 he was a Senior Software Development Engineer with the Visual Studio group at Microsoft, USA.  From 2008 to 2009 he was a Visiting Researcher with the VIBE group at Microsoft Research, USA.  He was a Research Fellow at Monash University from 2005 to 2008 and received his PhD from the University of Sydney in 2005.
+
+
+
+* * *
+
+### Poster Session
+
+#### Matrix Reordering Based on PQR Trees, Binarization and Smoothing	
+Bruno Medina (Unicamp - Brazil), Celmar Guimarães da Silva (Unicamp - Brazil).
+* * * 
+
+#### WISE: A web environment for visualization and insights on weather data	
+Igor Oliveira (IBM - Brazil), Vinicius Segura (IBM - Brazil), Marcelo Nery (IBM - Brazil), Kiran Mantripragada (IBM - Brazil), João Paulo Ramirez (IBM - Brazil), Renato Cerqueira (IBM Research - Brazil - Brazil).
+* * * 
+
+#### Visualizing sparsity in probabilistic topic models	
+Bruno Schneider (FGV/EMAp - Brazil), Asla Medeiros e Sa (FGV/EMAp - Brazil).
+* * * 
+
+#### CivisAnalysis: Unveiling Representatives' Policies Through Roll Call Data Visualization	
+Francisco Borja (UFRGS - Brazil), Carla Freitas (UFRGS - Brazil).
+* * * 
+
+#### VisPublica: an application to assist the publication of governmental data using visualization techniques	
+Fernanda Ribeiro (PESC/COPPE - Brazil), Bárbara Caetano (Universidade Federal de Itajubá - Brazil), Melise Paula (Universidade Federal de Itajuba - Brazil), Miriam Chaves (Ministério do Planejamento, Orçamento e Gestão - Brazil), Sergio Assis Rodrigues (UFRJ - Brazil), Jano Souza (UFRJ - Brazil).
+* * * 
+
+#### PointWalker: An Immersive Interface to Annotate 3D Point Clouds	
+Hernandi Krammes (UFRGS - Brazil), Marcio Mello (UFRGS - Brazil), Theodoro Mota (UFRGS - Brazil), Matheus Tura (UFRGS - Brazil), Anderson Maciel (UFRGS - Brazil), Luciana Nedel (UFRGS - Brazil).
+* * * 
+
+#### Time Series Visualization Schemes for Exploratory Multivariate Data Analysis	
+Alisson Carmo (Universidade Estadual Paulista - FCT/UNESP - Brazil), Bruno Vani (UNESP - Brazil), Milton Hirokazu Shimabukuro (Unesp - Faculdade de Ciências e Tecnologia - Brazil), João Monico (UNESP / FCT - Brazil), Enner Alcântara (UNESP - Brazil).
+* * *
+
+#### NBAVis: Visualizing National Basketball Association Information	
+Bruno Pagno (Universidade Federal do Rio Grande do Sul - Brazil), Leandro Guedes (UFRGS - Brazil), Carla Freitas (UFRGS - Brazil), Luciana Nedel (UFRGS - Brazil).
+* * *
+
+#### 3D Interaction with Cluttered Datasets	Marcio Mello (UFRGS - Brazil),
+Henrique Debarba (UFRGS - Brazil), Anderson Maciel (UFRGS - Brazil), Luciana Nedel (UFRGS - Brazil).
+* * *
+* * *
+
+
+### Keynote 2: To be announced
+
+## WVIS invited speaker: [Helwig Hauser](http://www.ii.uib.no/vis/team/hauser/), University of Bergen, Norway.
+  
+- Saturday, August 30
+- 11:00 - 12:30
+- Room: FGV´s Cultural Centre
+
+**Abstract**: To be announced
+ 
+**Short-Bio:** Helwig Hauser graduated from Vienna University of Technology, Austria, in 1995 with the degree of a ''Dipl.-Ing.'' (~MSc) in computer science.  In 1998, after research on flow visualization, he received the degree of a ''Dr.techn.'' (~PhD) from the same university. In 2004, Helwig Hauser was entitled a ''Privatdozent'' at the Vienna University of Technology after his successful Habilitation.  In 2006, he was awarded with the prestigous Heinz Zemanek Award for this work. Since 2007, Helwig Hauser is professor at the University of Bergen, Norway, where he is leading the (still young) research group on visualization.  Helwig Hauser's interests are diverse in visualization and computer graphics, including interactive visual analysis, illustrative visualization, and the combination of scientific and information visualization, as well as many other related topics.  He is also particularly interested in the application of visualization to the fields of medicine, geoscience, climatology, biology, engineering, and others.
+
+* * * 
+
+### Organizers
+
+- [João Comba](http://www.inf.ufrgs.br/~comba/), PhD, Associate Professor at UFRGS
+- [Luis Gustavo Nonato](http://www.icmc.usp.br/pessoas/gnonato/), PhD, Associate Professor at ICMC-USP
+- [Fernando V. Paulovich](https://sites.google.com/site/fpaulovich/Home), PhD, Assistant Professor at ICMC-USP
+- [Asla Sá](http://emap.fgv.br/people/asla.sa.html), PhD, Assistant Professor at FGV
+
+### Contact
+
+- [João Comba](http://www.inf.ufrgs.br/~comba/), PhD, Associate Professor at UFRGS

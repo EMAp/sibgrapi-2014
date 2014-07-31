@@ -7,9 +7,9 @@ All SIBIGRAPI 2014 tutorials will take place on Wednesday, August 27, from 9:00 
 
 ##Visual Computing and Machine Learning Techniques for Digital Forensics
 
-- Tutorial 1 - room to be defined - 09:00 - 12:30
+- Tutorial 1 - **Auditorium 12th floor** - 09:00 - 12:30
 - Tutorial Level: intermediate
-- Language: Portuguese
+- Language: **Portuguese**
 - Estimated Time: 3 hours.
 
 **Authors:**
@@ -22,9 +22,9 @@ All SIBIGRAPI 2014 tutorials will take place on Wednesday, August 27, from 9:00 
 
 ##Introduction to the Smart Surveillance Framework 
 
-- Tutorial 2 - Auditorium 12th floor - 09:00 - 12:30
+- Tutorial 2 - **Room 1013** - 14:00 - 17:30
 - Tutorial Level: intermediate.
-- Language: Portuguese
+- Language: **Portuguese**
 - Estimated Time: 3 hours.
 
 **Authors:**
@@ -37,9 +37,9 @@ All SIBIGRAPI 2014 tutorials will take place on Wednesday, August 27, from 9:00 
 
 ##SciPy and OpenCV as an interactive computing environment for computer vision
 
-- Tutorual 3 - FGV´s Cultural Center - 09:00 - 17:30
+- Tutorual 3 - **FGV´s Cultural Center** - 09:00 - 17:30
 - Tutorial Level: intermediate.
-- Language: English
+- Language: **English**
 - Estimated Time: 6 hours.
 
 **Author:**
@@ -50,9 +50,9 @@ All SIBIGRAPI 2014 tutorials will take place on Wednesday, August 27, from 9:00 
 
 ##Developing Mobile Multimedia Apps, Botanic: A Case Study
 
-- Tutorial 4 - Auditorium 12th floor - 14:00 - 17:30
+- Tutorial 4 - **Auditorium 12th floor** - 14:00 - 17:30
 - Tutorial Level: intermediate
-- Language: English
+- Language: **English**
 - Estimated Time: 3 hours.
 
 **Author:**
@@ -63,9 +63,9 @@ All SIBIGRAPI 2014 tutorials will take place on Wednesday, August 27, from 9:00 
 
 ##Graphics for 3D Printing
 
-- Tutorial 5 - Room 1333 - 14:00 - 17:30
-- Tutorial Level: intermediate.
-- Language: English
+- Tutorial 5 - **Room 1332** - 14:00 - 17:30
+- Tutorial Level: intermediate
+- Language: **English**
 - Estimated Time: 3 hours.
 
 **Authors:**
