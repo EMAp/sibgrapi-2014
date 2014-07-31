@@ -16,7 +16,7 @@ Wednesday, August 27
 Saturday, August 30
 
 - WVHAR - Workshop on Vision-based Human Activity Recognition [   call   ](call-for-wvhar.html) -- [   program   ](program_WVHAR.html)
-- WVIS 2014 - 5th Workshop on Visual Analytics, Information Visualization and Scientific Visualization [   call   ](call-for-wvis.html)
+- WVIS 2014 - 5th Workshop on Visual Analytics, Information Visualization and Scientific Visualization [   call   ](call-for-wvis.html) -- [   program   ](SIBGRAPI2014-WVIS-program.html)
 
 ##Regular Workshops
 
