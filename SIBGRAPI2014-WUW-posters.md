@@ -2,6 +2,11 @@
 layout: content
 title: WUW - SIBGRAPI 2014 - List of accepted works
 ---
+WUW Works will be presented as a poster session: 
+
+- Friday, August 29
+- 09:00 - 11:00
+- Room: FGV´s Cultural Centre
 
 * * *
 ####Automatic landmark recognition in aerial images using orb for aerial auto-localization

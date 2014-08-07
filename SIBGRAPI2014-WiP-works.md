@@ -2,6 +2,11 @@
 layout: content
 title: WiP - SIBGRAPI 2014 - List of accepted works
 ---
+WUW Works will be presented: 
+
+- Saturday, August 30
+- 10:30 - 12:30
+- Room: to be confirmed
 
 * * *
 ####Desenvolvimento de um Sistema de Visão para Inspeção Automática de Tecidos 

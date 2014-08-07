@@ -2,6 +2,14 @@
 layout: content
 title: WTD - SIBGRAPI 2014 - List of accepted works
 ---
+WTD Works will be presented as a poster session: 
+
+- Friday, August 29
+- 15:00 - 17:00
+- Room: FGV´s Cultural Centre
+
+SAMSUNG Best PhD. thesis and Best MSc. thesis awards will be announced during the conference dinner.
+
 ###PhD Thesis
 
 * * * 

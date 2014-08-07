@@ -147,7 +147,7 @@ Currently he is an Assoc. Prof. (Senior Lecturer) at the School of Computing Sci
 
 
 * * *
-### Title to be announced
+### Interactive Visual Exploration and Analysis of Multi-Faceted Scientific Data
 
 ## WVIS invited speaker: [Helwig Hauser](http://www.ii.uib.no/vis/team/hauser/), University of Bergen, Norway.
   
@@ -155,9 +155,9 @@ Currently he is an Assoc. Prof. (Senior Lecturer) at the School of Computing Sci
 - 11:00 - 12:30
 - Room: FGV´s Cultural Centre
 
-**Abstract**: To be announced
+**Abstract**: Modern scientific data, either from computational simulation, advanced measurements, or from complex modeling approaches, are increasingly often multi-faceted – we are thinking about multi-variate data, multi-dimensional data, multi-modal data, etc.  The methodology of interactive visual analysis (IVA), which integrates computational methods with interactive processes, enables an iterative dialogue between the user and the data that makes it possible that both the unpaired perceptual and cognitive capabilities of the user are utilized as well as the steadily improving computational capabilities of modern computers.  In this talk, we take a closer look at this interactive and iterative exploration and analysis loop and examine how a deeper understanding of data becomes possible through it.  We do so out of an abstract perspective, while at the same time also considering a number of selected examples (from different application fields) which help to put the general considerations into a practical context.
  
-**Short-Bio:** Helwig Hauser graduated from Vienna University of Technology, Austria, in 1995 with the degree of a ''Dipl.-Ing.'' (~MSc) in computer science.  In 1998, after research on flow visualization, he received the degree of a ''Dr.techn.'' (~PhD) from the same university. In 2004, Helwig Hauser was entitled a ''Privatdozent'' at the Vienna University of Technology after his successful Habilitation.  In 2006, he was awarded with the prestigous Heinz Zemanek Award for this work. Since 2007, Helwig Hauser is professor at the University of Bergen, Norway, where he is leading the (still young) research group on visualization.  Helwig Hauser's interests are diverse in visualization and computer graphics, including interactive visual analysis, illustrative visualization, and the combination of scientific and information visualization, as well as many other related topics.  He is also particularly interested in the application of visualization to the fields of medicine, geoscience, climatology, biology, engineering, and others.
+**Short-Bio:** Helwig Hauser graduated in 1995 from Vienna University of Technology (TU Wien), Austria.  In 1998, he finished his PhD project on the visualization of complex dynamical systems.  In 2003, he finished his Habilitation at TU Wien, entitled ''Generalizing Focus+Context Visualization'' –in 2006 this work was awarded with the Heinz-Zemanek Award (given every 2nd year for exceptional works in computer science).  In 2013, H. Hauser received the Dirk Bartz Prize for Visual Computing in Medicine from Eurographics.  One of his main activities, more recently, is to chair visualization conferences, including EuroVis 2011, PacificVis 2012, and IEEE InfoVis 2013 and 2014.  H. Hauser is member of the EuroVis Steering Com¬mit¬tee, the TopoInVis Steering Committee, and has served / is serving on the Editorial Boards of Computers & Graphics, Computer Graphics Forum, and IEEE Transactions on Visualization and Computer Graphics.  After first working for TU Wien as assistant (since 1994) and later as assistant professor, he changed to the new VRVis Research Center in 2000.  There, he led the basic research group on interactive visualization (until 2003) before he became the scientific director of VRVis (until 2007).  Since then, 2007, he is a full professor in visualization at the University of Bergen in Norway, where he built up a new research group on visualization since.
 
 * * * 
 * * * 
