@@ -48,5 +48,14 @@ For tourist information, please [click here](https://ssl476.websiteseguro.com/cr
 - [Via Farani](www.viafarani.com.br/) - R. Barão de Itambi, 73
 - [Zachs](www.zacks.com.br/) - Praia de Botafogo, 228
 
+### Useful Telephone Numbers
+
+- FGV/EMAp - +55 21 3799-5917
+- FGV Reception – +55 21 3799-5938
+- Police – 190
+- Public Ambulance - 192
+- Fire Office – 193
+- Intenational Airport - +55 21 2432-7070
+- Santos Dumond Airport - +55 21 3398-5050
   
 
