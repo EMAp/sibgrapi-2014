@@ -27,4 +27,4 @@ Friday, August 29
 
 Saturday, August 30
 
-- WIP - Workshop of Work in Progress, [   call   ](call-for-WiP.html)
+- WIP - Workshop of Work in Progress, [   call   ](call-for-WiP.html) -- [  list of accepted works  ](SIBGRAPI2014-WiP-works.html)
