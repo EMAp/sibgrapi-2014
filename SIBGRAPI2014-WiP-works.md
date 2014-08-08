@@ -2,11 +2,11 @@
 layout: content
 title: WiP - SIBGRAPI 2014 - List of accepted works
 ---
-WUW Works will be presented: 
+WiP works will be presented as a poster session in an informal environment aiming to encourage discussion that will contribute to the on-going research: 
 
 - Saturday, August 30
 - 10:30 - 12:30
-- Room: to be confirmed
+- Room: 12th floor FGV´s Auditorium
 
 * * *
 ####Desenvolvimento de um Sistema de Visão para Inspeção Automática de Tecidos 

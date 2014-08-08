@@ -3,7 +3,7 @@ layout: content
 title: Invited Speakers
 ---
 
-### Computational Analysis in Cultural Heritage Applications
+## Computational Analysis in Cultural Heritage Applications
 
 ## [Tim Weyrich](http://www0.cs.ucl.ac.uk/staff/t.weyrich/), University College London - UK
 
@@ -25,7 +25,7 @@ title: Invited Speakers
   cultural heritage analysis and digital humanities.
   
 * * * 
-### Detectors and Descriptors for Three Dimensional Reconstruction of Real Scenes
+## Detectors and Descriptors for Three Dimensional Reconstruction of Real Scenes
 
 ## [Mario Campos](http://www.verlab.dcc.ufmg.br/publicacoes/author/mario_fernando_montenegro_campos), UFMG - Brazil
 
@@ -38,7 +38,7 @@ title: Invited Speakers
 **Short Bio:** Mario Fernando Montenegro Campos, Ph.D., is a Professor of Computer Vision and Robotics in the Department of Computer Science at the Federal University of Minas Gerais (UFMG), Belo Horizonte, Brazil. He holds B.S. degrees in Engineering, and M.S. in Computer Science, all from UFMG, and a Ph.D. in Computer and Information Science from the University of Pennsylvania, USA.  His research interests include cooperative robotics, robot vision, sensor information processing. His main contributions are in haptics, multirobot cooperation, aerial robotics and robot vision. He is the founder and director of the Vision and Robotics Lab -- VeRLab, UFMG, Brazil. He has been a Distinguished Lecturer in the IEEE Robotics and Automation Society.  
 
 * * * 
-### Searching for Images to Measure the World
+## Searching for Images to Measure the World
 
 ## [Robert Pless](http://www.cse.wustl.edu/~pless), Washington University in St. Louis - USA
 
@@ -74,7 +74,7 @@ use to discover the location of a lost grave.
   Workshop on Application of Computer Vision in 2013.
 
 * * * 
-### Deep Learning That Just Works
+## Deep Learning That Just Works
 
 ## [James Bergstra](http://www.eng.uwaterloo.ca/~jbergstr/), University of Waterloo - Canadá
 
@@ -119,7 +119,7 @@ of deep learning.
   computation.
   
 * * * 
-### I know what you are doing, and I can tell how well! — An outlook beyond (traditional) Activity Recognition.
+## I know what you are doing, and I can tell how well! — An outlook beyond (traditional) Activity Recognition.
 
 ## WVHAR invited speaker: [Thomas Ploetz](www.thomasploetz.de), Newcastle University, UK
 
@@ -133,7 +133,7 @@ of deep learning.
 Currently he is an Assoc. Prof. (Senior Lecturer) at the School of Computing Science at Newcastle University in Newcastle upon Tyne, UK where the Machine Learning and Activity Recognition research activities within the Digital Interaction group at Culture Lab. Prior to his appointment in Newcastle he worked as a visiting Research Fellow at the Georgia Institute of Technology in Atlanta, USA, and as a post-doc in both Newcastle and TU Dortmund Universities (Dortmund, Germany).
 
 * * *
-### Building a useful software dependency visualization system
+## Building a useful software dependency visualization system
 
 ## WVIS invited speaker: [Tim Dwyer](http://www.csse.monash.edu.au/~tdwyer/), Monash University, Australia. 
   
@@ -147,7 +147,7 @@ Currently he is an Assoc. Prof. (Senior Lecturer) at the School of Computing Sci
 
 
 * * *
-### Interactive Visual Exploration and Analysis of Multi-Faceted Scientific Data
+## Interactive Visual Exploration and Analysis of Multi-Faceted Scientific Data
 
 ## WVIS invited speaker: [Helwig Hauser](http://www.ii.uib.no/vis/team/hauser/), University of Bergen, Norway.
   

@@ -27,7 +27,7 @@ Airport (GIG) and Santos Dumont Domestic Airport (SDU).
 SIBIGRAPI 2014 is working with CREACT.EVE as its travel agency. 
 For tourist information, please [click here](https://ssl476.websiteseguro.com/creacteve/novosite/info_evento.php?pag=h107&evento=134&ling=eng).
 
-[City Official Guide](http://www.rioguiaoficial.com.br/)
+More information about Rio can be found at the[City Official Guide](http://www.rioguiaoficial.com.br/).
 
 ### Selection of Nearby Restaurants
 
@@ -47,6 +47,13 @@ For tourist information, please [click here](https://ssl476.websiteseguro.com/cr
 - [Subway](www.subway.com.br/) - Rua Farani, 3 Loja C
 - [Via Farani](www.viafarani.com.br/) - R. Barão de Itambi, 73
 - [Zachs](www.zacks.com.br/) - Praia de Botafogo, 228
+
+### Nearby Drugstores
+
+- [Pacheco](http://www.drogariaspacheco.com.br) - R. Marques de Abrantes , 144 , Flamengo  ** +55 21 4020-4004 **
+- [Drogaria Cristal](http://www.drogariacristal.com.br) - Rua Marques De Abrantes, Nº 27, Flamengo ** +55 21 2225-7319 **
+- [Drogaria Atual](http://www.drogariaatual.com.br/) - Rua Senador Vergueiro, Nº 23 – Flamengo  ** +55 21 2285-3447 **
+- [Drogarias Max Padrão](http://www.maxcenter.com.br/) - Rua Marques De Abrantes, Nº 79 – Flamengo ** +55 21 2554-7001 **
 
 ### Useful Telephone Numbers
 

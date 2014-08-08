@@ -12,7 +12,7 @@ title: SIBGRAPI 2014 Program
 
 - [Tutorials](tutorials.html)
 - [Invited Speakers Info](invited-speakers.html)
-- [Technical Sessions Schedule]()
+- [Technical Sessions Schedule](Sibgrapi2014-accepted-papers.html)
 - [WUW Poster Session](SIBGRAPI2014-WUW-posters.html)
 - [WTD Poster Session](SIBGRAPI2014-WTD-posters.html)
 - [WiP Discussion Session](SIBGRAPI2014-WiP-works.html)

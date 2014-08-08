@@ -2,7 +2,7 @@
 layout: content
 title: WUW - SIBGRAPI 2014 - List of accepted works
 ---
-WUW Works will be presented as a poster session: 
+WUW Works will be presented as a poster session in an informal environment aiming to encourage discussion that will contribute to the on-going research: 
 
 - Friday, August 29
 - 09:00 - 11:00
