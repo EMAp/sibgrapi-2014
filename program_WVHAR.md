@@ -3,6 +3,11 @@ layout: content
 title: WVHAR - Workshop on Vision-based Human Activity Recognition 
 ---
 
+- Saturday, August 30
+- 08:30 - 12:30
+- Room: 12th floor FGV´s Auditorium
+
+
 ### Preliminary Agenda
 
 The workshop will be held on 30 August 2014.
@@ -17,15 +22,19 @@ The workshop will be held on 30 August 2014.
 
 12:00 &ndash; 12:15 Best paper award and discussion
 
-* * *
+* * * 
+## I know what you are doing, and I can tell how well! — An outlook beyond (traditional) Activity Recognition.
 
-### Keynote Speaker: Dr. Thomas Ploetz (Newcastle University, UK) 
+## WVHAR invited speaker: [Thomas Ploetz](www.thomasploetz.de), Newcastle University, UK
 
-**Title:** I know what you are doing, and I can tell how well! &ndash; An outlook beyond (traditional) Activity Recognition.
+- Saturday, August 30
+- 9:30 - 10:30
+- Room: FGV´s 12th floor Auditorium
 
-**Abstract and short bio:** [Thomas Ploetz](http://www.thomasploetz.de) works in Computational Behaviour Analysis (CBA), which is an emerging discipline that focuses on developing methods to study and understand behavioural phenotypes of humans with specific focus on health related applications. Examples of which are behaviour based screenings in Autism, skill assessment for Dementia patients or people with Parkinson's disease, or personalised rehabilitation support for stroke patients, to name but a few &ndash; all with the objective of tailoring and improving individualised support. CBA is opportunistic regarding sensing modalities used for capturing human behaviour and apart from video based assessments Dr Ploetz and his team work with a multitude of sensors from the Pervasive and Ubiquitous computing domain. The focus of Ploetz's work is on developing and applying computational modelling techniques for CBA.
+**Abstract**: Computational Behaviour Analysis (CBA) is an emerging discipline that focuses on developing methods to study and understand behavioural phenotypes of humans with specific focus on health related applications. Examples of which are behaviour based screenings in Autism, skill assessment for Dementia patients or people with Parkinson's disease, or personalised rehabilitation support for stroke patients, to name but a few -- all with the objective of tailoring and improving individualised support. CBA is opportunistic regarding sensing modalities used for capturing human behaviour and apart from video based assessments Dr Ploetz and his team work with a multitude of sensors from the Pervasive and Ubiquitous computing domain. The focus of Ploetz's work is on developing and applying computational modelling techniques for CBA.
 
-Thomas Ploetz earned his PhD in Computer Science from Bielefeld University in Germany. His background is on machine learning and statistical pattern recognition. Currently he is an Assoc. Prof. (Senior Lecturer) at the School of Computing Science at Newcastle University in Newcastle upon Tyne, UK where the Machine Learning and Activity Recognition research activities within the Digital Interaction group at Culture Lab. Prior to his appointment in Newcastle he worked as a visiting Research Fellow at the Georgia Institute of Technology in Atlanta, USA, and as a post-doc in both Newcastle and TU Dortmund Universities (Dortmund, Germany).
+**Short-Bio:** Dr. Thomas Ploetz earned his PhD in Computer Science from Bielefeld University in Germany. His background is on machine learning and statistical pattern recognition.
+Currently he is an Assoc. Prof. (Senior Lecturer) at the School of Computing Science at Newcastle University in Newcastle upon Tyne, UK where the Machine Learning and Activity Recognition research activities within the Digital Interaction group at Culture Lab. Prior to his appointment in Newcastle he worked as a visiting Research Fellow at the Georgia Institute of Technology in Atlanta, USA, and as a post-doc in both Newcastle and TU Dortmund Universities (Dortmund, Germany).
 
 * * *
 

@@ -209,6 +209,19 @@ Kibaek Kim, Hanyang University; Gwanggil Jeon*, Incheon University; Jechang Jeon
 Gustavo Mello Machado*, University of Stuttgart; Filip Sadlo, University of Stuttgart; Thomas Ertl, University of Stuttgart
 
 * * *
+## Invited Journal Session - Elsevier Computer & Graphics
+
+- Session Chair: to be confirmed
+- Friday, August 29, 14h30 - 15h20
+- Room: FGV´s Cultural Center
+
+#### [Practical considerations on Marching Cubes 33 topological correctness](http://www.sciencedirect.com/science/article/pii/S0097849313000563)
+Lis Custodio, Tiago Etiene, Sinesio Pesco, Claudio Silva
+
+#### [A sample-based method for computing the radiosity inverse matrix](http://www.sciencedirect.com/science/article/pii/S0097849314000259)
+Eduardo Fernández, Gonzalo Besuievsky
+
+* * *
 * * *
 
 

@@ -6,7 +6,7 @@ WiP works will be presented as a poster session in an informal environment aimin
 
 - Saturday, August 30
 - 10:30 - 12:30
-- Room: 12th floor FGV´s Auditorium
+- Room: 12th floor FGV´s Auditorium **Foyer**
 
 * * *
 ####Desenvolvimento de um Sistema de Visão para Inspeção Automática de Tecidos 
