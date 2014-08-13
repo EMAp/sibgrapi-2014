@@ -7,6 +7,21 @@ title: WVHAR - Workshop on Vision-based Human Activity Recognition
 - 08:30 - 12:30
 - Room: 12th floor FGV´s Auditorium
 
+Original contributions, both from academia and industry on Human Activity Recognition (HAR) and its applications will be discussed in this workshop. 
+The contributions include a non-exhaustive list of areas of interest such as: 
+
+- Action recognition;
+- Violence detection;
+- Pose estimation and its application for HAR;
+- Feature extraction for VHAR;
+- Embedded solutions for visual surveillance;
+- People detection/tracking - both 2D and 3D;
+- Sports visual analytics;
+- Depth-cameras for monitoring environments;
+- Visual privacy;
+- Visual concept learning.
+- datasets for vision-based HAR (databases with human actions and activities).
+
 
 ### Preliminary Agenda
 
@@ -77,6 +92,7 @@ Luciano Oliveira (UFBA), João Paulo Vieira (UFBA), Diedre Carmo (UFBA), Rildo F
 - [Ot&aacute;vio Penatti](http://lattes.cnpq.br/9435126211245735), PhD, Researcher at Samsung Research Brazil
 - [Eduardo Valle](http://lattes.cnpq.br/6301401714714951), PhD, EE Assistant Professor at Unicamp
 - [Leticia Rittner](http://lattes.cnpq.br/6540619386101635), PhD, EE Assistant Professor at Unicamp
+- [Fernanda Andal&oacute;](http://lattes.cnpq.br/1511096593761280), PhD, Researcher at Samsung Research Brazil
 - [Miguel Lizarraga](http://lattes.cnpq.br/8820652347287112), PhD, Researcher at Samsung Research Brazil 
 
 ### Contact

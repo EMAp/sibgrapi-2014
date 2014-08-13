@@ -72,7 +72,8 @@ For best consideration for SIBGRAPI 2014, applications should be received until 
 - [Ot&aacute;vio Penatti](http://lattes.cnpq.br/9435126211245735), PhD, Researcher at Samsung Research Brazil
 - [Eduardo Valle](http://lattes.cnpq.br/6301401714714951), PhD, EE Assistant Professor at Unicamp
 - [Leticia Rittner](http://lattes.cnpq.br/6540619386101635), PhD, EE Assistant Professor at Unicamp
-- [Miguel Lizarraga](http://lattes.cnpq.br/8820652347287112), PhD, Researcher at Samsung Research Brazil 
+- [Fernanda Andal&oacute;](http://lattes.cnpq.br/1511096593761280), PhD, Researcher at Samsung Research Brazil
+- [Miguel Lizarraga](http://lattes.cnpq.br/8820652347287112), PhD, Researcher at Samsung Research Brazil   
 
 ### Contact
 

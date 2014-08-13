@@ -3,6 +3,10 @@ layout: content
 title: WVIS - 5th Workshop on Visual Analytics, Information Visualization and Scientific Visualization 
 ---
 
+- Saturday, August 30
+- 08:30 - 12:30
+- Room: FGV´s Cultural Center
+
 Motivated by the increasing attention worldwide on visualization
 techniques, it took place during SIBGRAPI 2007, SIBGRAPI 2010,
 SIBGRAPI 2012, and at Fundação Getúlio Vargas in 2013, the first four
@@ -36,7 +40,6 @@ The workshop will be held on 30 August 2014.
 **Abstract**: I have been an information visualization and graph drawing researcher for the better part of 13 years so was therefore excited at the opportunity to build a "practical" graph-visualization tool with the weight and resources of a powerful software company behind me.  However, I soon discovered that algorithms for layout and analysis are only one small piece in the puzzle to build a practical visualization tool that people will actually like and use.  In this talk I hope to share that journey, some of the insights we acquired along the way, and---of course---spruik the tool itself: CodeMaps in the Microsoft Visual Studio 2013 IDE.
  
 **Short-Bio:** Since 2012 Tim Dwyer is a Senior Lecturer and Larkins Fellow with the Faculty of IT at Monash University.  From 2009 to 2012 he was a Senior Software Development Engineer with the Visual Studio group at Microsoft, USA.  From 2008 to 2009 he was a Visiting Researcher with the VIBE group at Microsoft Research, USA.  He was a Research Fellow at Monash University from 2005 to 2008 and received his PhD from the University of Sydney in 2005.
-
 
 
 * * *
