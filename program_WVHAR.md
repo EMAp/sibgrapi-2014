@@ -12,17 +12,33 @@ title: WVHAR - Workshop on Vision-based Human Activity Recognition
 
 The workshop will be held on 30 August 2014.
 
-08:45 &ndash; 09:30 Welcome and technical session 1
+08:45 &ndash; 09:30 Welcome and Technical Session 1
 
 09:30 &ndash; 10:30 Keynote speaker talk: Dr. Thomas Ploetz
 
 10:30 &ndash; 11:00 Coffee-break
 
-11:00 &ndash; 12:00 Technical session 2
+11:00 &ndash; 12:00 Technical Session 2
 
 12:00 &ndash; 12:15 Best paper award and discussion
 
 * * * 
+
+WVHAR papers will be presented as an oral session. The presentations must fit in 12 minutes, with additional 3 minutes for questions. Slides should be prepared in English. 
+
+### Technical Session 1
+
+#### 8:45 - 9:00  Human Tracking using a Kinematic Model in a 3D Probabilistic Occupancy Grid
+Maurício Goulart (UFRG), Rodrigo de Bem (UFRG), Gisele Simas (UFRG), Silvia Botelho (UFRG)
+
+#### 9:00 - 9:15  High Level Event Detection based on Spatial Occupancy and Interpersonal Relationships
+John Soldera (UFRGS), José Bins Filho (UNIPAMPA), Marcelo Cohen (PUC-RS), Julio Cezar Jacques Junior (PUC-RS), Soraia Musse (PUC-RS), Cláudio Jung (UFRGS)
+
+#### 9:15 - 9:30  Continuous Sign Recognition of Brazilian Sign Language in a Health Care Setting
+José Elías Yauri Vidalón (Unicamp), José Mario De Martino (Unicamp)
+
+* * *
+
 ## I know what you are doing, and I can tell how well! — An outlook beyond (traditional) Activity Recognition.
 
 ## WVHAR invited speaker: [Thomas Ploetz](www.thomasploetz.de), Newcastle University, UK
@@ -35,6 +51,22 @@ The workshop will be held on 30 August 2014.
 
 **Short-Bio:** Dr. Thomas Ploetz earned his PhD in Computer Science from Bielefeld University in Germany. His background is on machine learning and statistical pattern recognition.
 Currently he is an Assoc. Prof. (Senior Lecturer) at the School of Computing Science at Newcastle University in Newcastle upon Tyne, UK where the Machine Learning and Activity Recognition research activities within the Digital Interaction group at Culture Lab. Prior to his appointment in Newcastle he worked as a visiting Research Fellow at the Georgia Institute of Technology in Atlanta, USA, and as a post-doc in both Newcastle and TU Dortmund Universities (Dortmund, Germany).
+
+* * *
+
+### Technical Session 2
+
+#### 11:00 - 11:15  On-line Cascade Boosted Classifier for Face Tracking
+Thiago Prata (Universidade Federal de Pernambuco &ndash; UFPE), Ing Ren Tsang (Universidade Federal de Pernambuco), George Cavalcanti (Universidade Federal de Pernambuco &ndash; UFPE) 
+
+#### 11:15 - 11:30  Video Tensor Self-descriptor Based on Variable Size Block Matching
+Fabio Oliveira (UFJF), Helena Maia (UFJF), Virginia Mota (UFMG), Marcelo Vieira (UFJF), Arnaldo Araujo (UFMG)
+
+#### 11:30 - 11:45  Framework for Generating Visual Stimuli Procedurally
+Daniel Basso (INESCTEC), Miguel Correia (University of Porto)
+
+#### 11:45 - 12:00  Analysis of Human Activity By Specific Energy of Movement Volume in Hemiparetic Individuals
+Luciano Oliveira (UFBA), João Paulo Vieira (UFBA), Diedre Carmo (UFBA), Rildo Ferreira (UFBA), José Miranda (UFBA)
 
 * * *
 

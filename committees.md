@@ -16,7 +16,7 @@ title: Committees
 - [Walter Scheirer](http://www.wjscheirer.com/) (Harvard University - USA)
 - [Derek Nowrouzezahrai](http://www.iro.umontreal.ca/~derek/) (Univ. of Montreal, Canada)
 
-- [Program Committee](program_committee.html)
+- [PROGRAM COMMITTEE](program_committee.html)
 
 ### Workshop of Theses and Dissertations Chairs (WTD)
 
