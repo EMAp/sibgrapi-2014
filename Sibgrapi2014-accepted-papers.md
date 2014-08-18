@@ -211,7 +211,7 @@ Gustavo Mello Machado*, University of Stuttgart; Filip Sadlo, University of Stut
 * * *
 ## Invited Journal Session - Elsevier Computer & Graphics
 
-- Session Chair: to be confirmed
+- Session Chair: Diego Nehab (IMPA)
 - Friday, August 29, 14h30 - 15h20
 - Room: FGV´s Cultural Center
 
