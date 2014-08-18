@@ -104,5 +104,7 @@ The text should follow the SIBGRAPI formatting guidelines, but with the followin
 
 - The papers should be submitted through the
   [CMT system](https://cmt2.research.microsoft.com/WTD20142014/Default.aspx).
+  
+- Posters are to be printed in A1 format size, portrait orientation. There isn´t a template to be used as reference. 
 
 For further questions, please, contact the WTD chairs.

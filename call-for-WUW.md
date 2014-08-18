@@ -16,7 +16,7 @@ must have a professor responsible for the research. Thus, each paper
 must have at least two authors. Accepted works should be presented in
 poster sessions and will be published in the SIBGRAPI Electronic
 Proceedings (with ISSN), provided that at least one author student has
-registered to the event.  Important Dates
+registered to the event.  
 
 ### Important Dates:
 
@@ -57,8 +57,8 @@ further information.
 
 ### Posters Preparation
 
-Posters should be prepared using an area of 90cm x 120 cm at maximum
-and in a portrait orientation. The use of small fonts on the text
+Posters should be prepared using A1 format in a portrait orientation. 
+The use of small fonts on the text
 production is not recommended. It is not necessary to include the
 poster in the JEMS system.
 

@@ -45,14 +45,14 @@ padding:5px;
   <td>R$ 694,40</td>
 </tr>
 <tr>
-  <td align = "left">SBC/EG*/IEEE Graduate Student Members</td>
+  <td align = "left">SBC/EG*/IEEE Undergrad and Graduate Student Members</td>
   <td>R$ 89,60</td>		
   <td>R$ 112,00</td>
   <td>R$ 134,40</td>
   <td>R$ 268,80</td>
 </tr>
 <tr>
-  <td>Graduate Student Non-Members</td>
+  <td>Undergrad and Graduate Student Non-Members</td>
   <td>R$ 112,00</td>		
   <td>R$ 145,60</td>
   <td>R$ 179,20</td>
@@ -69,14 +69,14 @@ padding:5px;
   <th align = "left">After August 26th</th>
 </tr>
 <tr>
-  <td align = "left">SBC/EG*/IEEE Professional Members</td>
+  <td align = "left">SBC/EG*/IEEE Members</td>
   <td>R$ 56,00</td>		
   <td>R$ 67,20</td>
   <td>R$ 78,40</td>
   <td>R$ 156,80</td>
 </tr>
 <tr>
-  <td align = "left">SBC/EG*/IEEE Professional Members</td>
+  <td align = "left">SBC/EG*/IEEE Non-Members</td>
   <td>R$ 67,20</td>		
   <td>R$ 89,60</td>
   <td>R$ 112,40</td>
