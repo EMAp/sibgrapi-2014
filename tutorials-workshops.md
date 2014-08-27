@@ -3,7 +3,7 @@ layout: content
 title: Tutorials and Workshops  
 ---
 
-##[SIBGRAPI 2014 Tutorials](tutorials.html)
+#[SIBGRAPI 2014 Tutorials](tutorials.html)
 Wednesday, August 27
 
 - [Visual Computing and Machine Learning Techniques for Digital Forensics](tutorials.html)
@@ -11,6 +11,10 @@ Wednesday, August 27
 - [SciPy and OpenCV as an Interactive Computing Environment for Computer Vision](tutorials.html)
 - [Developing Mobile Multimedia Apps, Botanic: A Case Study](tutorials.html)
 - [Graphics for 3D Printing](tutorials.html)
+
+#Workshops
+
+_Download the files of the accepted works_ [here](http://bibliotecadigital.fgv.br/dspace/handle/10438/11827)
 
 ##Thematic Workshops
 Saturday, August 30

@@ -18,6 +18,9 @@ Visualization).  In this edition of the workshop, we aim at providing
 a forum for the dissemination of current work in the field, while
 fostering new research and collaborations.
 
+_Download the files of the accepted works_ [here](http://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/11954/WVIS-SIBGRAPI-2014.pdf?sequence=1)
+
+
 ### Preliminary Agenda
 
 The workshop will be held on 30 August 2014.

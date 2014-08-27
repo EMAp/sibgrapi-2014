@@ -22,6 +22,9 @@ The contributions include a non-exhaustive list of areas of interest such as:
 - Visual concept learning.
 - datasets for vision-based HAR (databases with human actions and activities).
 
+_Download the files of the accepted works_ [here](http://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/11953/WVHAR-SIBGRAPI-2014.pdf?sequence=1)
+
+
 
 ### Preliminary Agenda
 

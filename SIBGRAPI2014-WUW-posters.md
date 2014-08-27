@@ -10,6 +10,9 @@ WUW Works will be presented as a poster in two sessions:
 - Session 1 - 09:00 - 10:30
 - Room: FGV´s 12th floor Auditorium **Foyer**
 
+_Download the files of the accepted works_ [here](http://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/11952/WUW-SIBGRAPI-2014.pdf?sequence=1)
+
+
 * * *
 #### U01)Automatic landmark recognition in aerial images using orb for aerial auto-localization
 Marcel Rodrigues (Faculty of Technology São Francisco de Assis - Brazil), Paulo Silva Filho (IEAv - Brazil), Mateus Habermann (IEAV - Brazil), Quenaz Eller (IEAv - Brazil), Osamu Saotome (ITA - Brazil), Elcio Hideiti Shiguemori (IEAv - Brazil)

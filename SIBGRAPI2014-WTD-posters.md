@@ -10,6 +10,9 @@ WTD Works will be presented as a poster session:
 
 SAMSUNG Best PhD. thesis and Best MSc. thesis awards will be announced during the conference dinner.
 
+_Download the files of the accepted works_ [here](http://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/11956/WTD-SIBGRAPI-2014.pdf?sequence=1)
+
+
 ###PhD Thesis
 
 * * * 

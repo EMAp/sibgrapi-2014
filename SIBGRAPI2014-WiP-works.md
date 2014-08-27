@@ -8,6 +8,9 @@ WiP works will be presented as a poster session in an informal environment aimin
 - 10:30 - 12:30
 - Room: 12th floor FGV´s Auditorium **Foyer**
 
+_Download the files of the accepted works_ [here](http://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/11955/WIP-SIBGRAPI-2014.pdf?sequence=1)
+
+
 * * *
 #### W01) Desenvolvimento de um Sistema de Visão para Inspeção Automática de Tecidos 
 Maurício Stivanello (IFSC), Saulo Vargas (IFSC), Juliano Masson (IFSC)
