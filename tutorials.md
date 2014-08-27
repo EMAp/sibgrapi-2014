@@ -11,6 +11,7 @@ All SIBIGRAPI 2014 tutorials will take place on Wednesday, August 27, from 9:00 
 - Tutorial Level: intermediate
 - Language: **Portuguese**
 - Estimated Time: 3 hours.
+- [Material for download] (https://dl.dropboxusercontent.com/u/4349240/Handouts%20Tutoriais/T1-Visual%20Computing%20and%20Machine%20Learning%20Techniques%20for%20Digital%20Forensic.pdf)
 
 **Authors:**
 - [Tiago Carvalho](http://www.ic.unicamp.br/~tjose/), (Unicamp, Campinas - Brazil)
@@ -26,6 +27,7 @@ All SIBIGRAPI 2014 tutorials will take place on Wednesday, August 27, from 9:00 
 - Tutorial Level: intermediate.
 - Language: **Portuguese**
 - Estimated Time: 3 hours.
+- [Material for Download] (https://dl.dropboxusercontent.com/u/4349240/Handouts%20Tutoriais/T2-Introduction%20to%20the%20Smart%20Surveillance%20Framework.pdf)
 
 **Authors:**
 - [William Robson Schwartz](http://homepages.dcc.ufmg.br/~william/) (UFMG, Belo Horizonte, Brazil)
@@ -41,6 +43,7 @@ All SIBIGRAPI 2014 tutorials will take place on Wednesday, August 27, from 9:00 
 - Tutorial Level: intermediate.
 - Language: **English**
 - Estimated Time: 6 hours.
+- [Material for Download] (https://dl.dropboxusercontent.com/u/4349240/Handouts%20Tutoriais/T3-SciPy%20and%20OpenCV%20as%20an%20interactive%20computing%20environment%20for%20computer%20vision.pdf)
 
 **Author:**
 - [Thiago T. Santos](http://www.cnptia.embrapa.br/~thiago/stories/), (Embrapa Agricultural Informatics - Campinas SP)
@@ -54,6 +57,7 @@ All SIBIGRAPI 2014 tutorials will take place on Wednesday, August 27, from 9:00 
 - Tutorial Level: intermediate
 - Language: **English**
 - Estimated Time: 3 hours.
+- [Material for Download] (https://dl.dropboxusercontent.com/u/4349240/Handouts%20Tutoriais/T4-Developing%20Mobile%20Multimedia%20Apps%2C%20Botanic-%20A%20Case%20Study.pdf)
 
 **Author:**
 - [Luiz Velho](http://lvelho.impa.br/), (VISGRAF/IMPA, Rio de Janeiro, Brazil)
